@@ -1,808 +1,808 @@
 Accession number,Total #reads,Reads aligned PF,Genomic coordinates 0X,Genomic coordinates <10X, QC_determination, QC_issues
-SRR16828363,632664,137117 (21%),,1#,not_performed,None
-SRR16828364,458116,177478 (38%),,1#,not_performed,None
-SRR16828365,351980,54281 (15%),,1#,not_performed,None
-SRR16828366,322968,21226 (6%),,1#,not_performed,None
-SRR16828367,250920,24752 (9%),,1#,not_performed,None
-SRR16828368,261146,20964 (8%),,1#,not_performed,None
-SRR16828369,333366,22160 (6%),,1#,not_performed,None
-SRR16828370,384632,18791 (4%),,1#,not_performed,None
-SRR16828371,403370,39248 (9%),,1#,not_performed,None
-SRR16828372,325846,63982 (19%),,1#,not_performed,None
-SRR16828373,271852,21943 (8%),,1#,not_performed,None
-SRR16828374,307272,25614 (8%),,1#,not_performed,None
-SRR16828375,148574,7375 (4%),,1#,not_performed,None
-SRR16828376,479676,90263 (18%),,1#,not_performed,None
-SRR16828377,401236,28574 (7%),,1#,not_performed,None
-SRR16828378,236128,32036 (13%),,1#,not_performed,None
-SRR16828379,288528,23233 (8%),,1#,not_performed,None
-SRR17066048,5668942,4421649 (77%),,1#,not_performed,None
-SRR17066049,2654612,104748 (3%),,1#,not_performed,None
-SRR17066050,3917538,91138 (2%),,1#,not_performed,None
-SRR17066051,3651432,3352659 (91%),,1#,not_performed,None
-SRR17066052,3605360,2897226 (80%),,1#,not_performed,None
-SRR17066053,3188018,6243 (0%),,1#,not_performed,None
-SRR17066054,4513822,2301581 (50%),,1#,not_performed,None
-SRR17066055,3341206,10453 (0%),,1#,not_performed,None
-SRR17074181,274910,62973 (22%),,1#,not_performed,None
-SRR17074182,149943,18161 (12%),,1#,not_performed,None
-SRR17074183,345486,2054 (0%),,1#,not_performed,None
-SRR17074184,36083,1552 (4%),,1#,not_performed,None
-SRR17074229,94830,47996 (50%),,1#,not_performed,None
-SRR17074230,530625,412170 (77%),,1#,not_performed,None
-SRR17074231,96643,43860 (45%),,1#,not_performed,None
-SRR17074232,73774,15914 (21%),,1#,not_performed,None
-SRR17146296,69146,3274 (4%),,1#,not_performed,None
-SRR17146297,76659,6951 (9%),,1#,not_performed,None
-SRR17146298,85550,14090 (16%),,1#,not_performed,None
-SRR17146299,62786,4133 (6%),,1#,not_performed,None
-SRR17146300,46847,7038 (15%),,1#,not_performed,None
-SRR17146301,66718,5853 (8%),,1#,not_performed,None
-SRR17517918,18118292,2355924 (13%),,1#,not_performed,None
-SRR17517919,21460944,2786659 (12%),,1#,not_performed,None
-SRR17517920,26616874,1207289 (4%),,1#,not_performed,None
-SRR17517921,26847348,3037747 (11%),,1#,not_performed,None
-SRR17540870,6456034,6139977 (95%),,1#,not_performed,None
-SRR17540871,7239436,6922734 (95%),,1#,not_performed,None
-SRR17540872,3687990,3498847 (94%),,1#,not_performed,None
-SRR17540873,4459098,4220298 (94%),,1#,not_performed,None
-SRR17540874,4736492,4430218 (93%),,1#,not_performed,None
-SRR17540875,4762216,4438520 (93%),,1#,not_performed,None
-SRR17540876,5418372,5028957 (92%),,1#,not_performed,None
-SRR17540877,7198668,5649533 (78%),,1#,not_performed,None
-SRR17578348,2000066,1608317 (80%),,1#,not_performed,None
-SRR17578349,1966816,905658 (46%),,1#,not_performed,None
-SRR17578350,3617894,1565774 (43%),,1#,not_performed,None
-SRR17578351,2461534,629097 (25%),,1#,not_performed,None
-SRR17578352,2506938,1067674 (42%),,1#,not_performed,None
-SRR17578353,2800876,1866780 (66%),,1#,not_performed,None
-SRR17578354,2060830,1348446 (65%),,1#,not_performed,None
-SRR17578355,2861192,1755198 (61%),,1#,not_performed,None
-SRR17654134,4637110,1990031 (42%),,1#,not_performed,None
-SRR17654135,8667396,3979292 (45%),,1#,not_performed,None
-SRR17654136,3498330,668189 (19%),,1#,not_performed,None
-SRR17654137,4310540,122 (0%),,1#,not_performed,None
-SRR17654138,4351812,1147086 (26%),,1#,not_performed,None
-SRR17654139,3872522,815819 (21%),,1#,not_performed,None
-SRR17654140,4613648,141 (0%),,1#,not_performed,None
-SRR17654141,7018478,297610 (4%),,1#,not_performed,None
-SRR17657410,3126572,2173372 (69%),,1#,not_performed,None
-SRR17657411,5226076,4102804 (78%),,1#,not_performed,None
-SRR17657412,3933092,1731531 (44%),,1#,not_performed,None
-SRR17657413,3475400,1817449 (52%),,1#,not_performed,None
-SRR17657414,2898858,1453536 (50%),,1#,not_performed,None
-SRR17657415,6018986,5195341 (86%),,1#,not_performed,None
-SRR17657416,2449710,991665 (40%),,1#,not_performed,None
-SRR17657417,3562054,1294743 (36%),,1#,not_performed,None
-SRR17676235,7292848,4265852 (58%),,1#,not_performed,None
-SRR17676236,8369660,5843824 (69%),,1#,not_performed,None
-SRR17676237,4997294,106155 (2%),,1#,not_performed,None
-SRR17676238,5224670,77 (0%),,1#,not_performed,None
-SRR17676239,2850842,41 (0%),,1#,not_performed,None
-SRR17676240,6310378,3336702 (52%),,1#,not_performed,None
-SRR17676241,6464622,414909 (6%),,1#,not_performed,None
-SRR17676242,4459098,70 (0%),,1#,not_performed,None
-SRR17688887,5003164,3696979 (73%),,1#,not_performed,None
-SRR17688888,18043914,14391125 (79%),,1#,not_performed,None
-SRR17688889,8181620,2452935 (29%),,1#,not_performed,None
-SRR17688890,5651108,77 (0%),,1#,not_performed,None
-SRR17688891,5287778,4394947 (83%),,1#,not_performed,None
-SRR17688892,7067456,5807604 (82%),,1#,not_performed,None
-SRR17688893,6355728,105 (0%),,1#,not_performed,None
-SRR17688894,6521086,164343 (2%),,1#,not_performed,None
-SRR17691854,15239568,2905474 (19%),,1#,not_performed,None
-SRR17691855,12590010,10800054 (85%),,1#,not_performed,None
-SRR17691856,16449286,7374721 (44%),,1#,not_performed,None
-SRR17691857,13340938,11096538 (83%),,1#,not_performed,None
-SRR17720373,3328760,3251201 (97%),,1#,not_performed,None
-SRR17720374,3861006,3726413 (96%),,1#,not_performed,None
-SRR17720375,2901752,1273201 (43%),,1#,not_performed,None
-SRR17720376,3832118,3576187 (93%),,1#,not_performed,None
-SRR17721362,515100,169653 (32%),,1#,not_performed,None
-SRR17721363,469628,229488 (48%),,1#,not_performed,None
-SRR17721364,484126,114006 (23%),,1#,not_performed,None
-SRR17721365,355433,98482 (27%),,1#,not_performed,None
-SRR17721366,7083498,343352 (4%),,1#,not_performed,None
-SRR17721367,4861734,594937 (12%),,1#,not_performed,None
-SRR17721368,9123908,448775 (4%),,1#,not_performed,None
-SRR17721369,3465302,335300 (9%),,1#,not_performed,None
-SRR17721553,131082,38706 (29%),,1#,not_performed,None
-SRR17721554,173520,22919 (13%),,1#,not_performed,None
-SRR17721555,160891,21761 (13%),,1#,not_performed,None
-SRR17721556,150925,11358 (7%),,1#,not_performed,None
-SRR17724289,184396,9882 (5%),,1#,not_performed,None
-SRR17724290,228634,56553 (24%),,1#,not_performed,None
-SRR17724291,320098,245463 (76%),,1#,not_performed,None
-SRR17724292,283408,155459 (54%),,1#,not_performed,None
-SRR17724293,344184,213307 (61%),,1#,not_performed,None
-SRR17724294,368648,303513 (82%),,1#,not_performed,None
-SRR17724295,320674,119420 (37%),,1#,not_performed,None
-SRR17724296,911236,26851 (2%),,1#,not_performed,None
-SRR17724297,758734,185255 (24%),,1#,not_performed,None
-SRR17724298,1038732,753650 (72%),,1#,not_performed,None
-SRR17724299,1228748,1021922 (83%),,1#,not_performed,None
-SRR17724300,441228,6269 (1%),,1#,not_performed,None
-SRR17724301,716246,142171 (19%),,1#,not_performed,None
-SRR17724302,1217594,1003921 (82%),,1#,not_performed,None
-SRR17724303,957164,411448 (42%),,1#,not_performed,None
-SRR17724304,673692,8487 (1%),,1#,not_performed,None
-SRR17724305,681108,8857 (1%),,1#,not_performed,None
-SRR17724306,536726,7627 (1%),,1#,not_performed,None
-SRR17724307,794680,22863 (2%),,1#,not_performed,None
-SRR17724308,590366,24239 (4%),,1#,not_performed,None
-SRR17724309,1319956,909834 (68%),,1#,not_performed,None
-SRR17724310,1217730,856092 (70%),,1#,not_performed,None
-SRR17724311,22754806,3403778 (14%),,1#,not_performed,None
-SRR17724312,21944482,2139976 (9%),,1#,not_performed,None
-SRR17724313,27957584,1379399 (4%),,1#,not_performed,None
-SRR17724314,31402356,1107220 (3%),,1#,not_performed,None
-SRR17724315,20609446,1740170 (8%),,1#,not_performed,None
-SRR17724316,549280,30128 (5%),,1#,not_performed,None
-SRR17724317,15759566,1253964 (7%),,1#,not_performed,None
-SRR17724318,28487136,748055 (2%),,1#,not_performed,None
-SRR17724319,14865188,1207640 (8%),,1#,not_performed,None
-SRR17724320,18928660,2362021 (12%),,1#,not_performed,None
-SRR17724321,28980702,3204677 (11%),,1#,not_performed,None
-SRR17724322,34065400,1429507 (4%),,1#,not_performed,None
-SRR17724323,31682420,882007 (2%),,1#,not_performed,None
-SRR17724324,35457806,767175 (2%),,1#,not_performed,None
-SRR17724325,23947150,1100933 (4%),,1#,not_performed,None
-SRR17724326,26247538,1733515 (6%),,1#,not_performed,None
-SRR17724327,616768,169245 (27%),,1#,not_performed,None
-SRR17724328,21780308,2414051 (11%),,1#,not_performed,None
-SRR17724329,28120244,2667097 (9%),,1#,not_performed,None
-SRR17724330,31628098,1664593 (5%),,1#,not_performed,None
-SRR17724331,20403134,2196989 (10%),,1#,not_performed,None
-SRR17724332,26740420,2690452 (10%),,1#,not_performed,None
-SRR17724333,24666132,1385407 (5%),,1#,not_performed,None
-SRR17724334,23503508,828039 (3%),,1#,not_performed,None
-SRR17724335,27111224,2113694 (7%),,1#,not_performed,None
-SRR17724336,16969792,1408661 (8%),,1#,not_performed,None
-SRR17724337,24359922,1807843 (7%),,1#,not_performed,None
-SRR17724338,657686,102137 (15%),,1#,not_performed,None
-SRR17724339,22488838,4319087 (19%),,1#,not_performed,None
-SRR17724340,22508886,2364432 (10%),,1#,not_performed,None
-SRR17724341,45043484,2917212 (6%),,1#,not_performed,None
-SRR17724342,28550754,1727545 (6%),,1#,not_performed,None
-SRR17724343,28550754,1727545 (6%),,1#,not_performed,None
-SRR17724344,22215044,2579378 (11%),,1#,not_performed,None
-SRR17724345,26014110,2165757 (8%),,1#,not_performed,None
-SRR17724346,25882926,2031427 (7%),,1#,not_performed,None
-SRR17724347,24523252,2719465 (11%),,1#,not_performed,None
-SRR17724348,25145414,2161553 (8%),,1#,not_performed,None
-SRR17724349,601848,100702 (16%),,1#,not_performed,None
-SRR17724350,25363982,2493430 (9%),,1#,not_performed,None
-SRR17724351,23308330,1377986 (5%),,1#,not_performed,None
-SRR17724352,20226454,2439221 (12%),,1#,not_performed,None
-SRR17724353,27623134,765600 (2%),,1#,not_performed,None
-SRR17724354,786990,19950 (2%),,1#,not_performed,None
-SRR17724355,657500,57310 (8%),,1#,not_performed,None
-SRR17724356,589306,22602 (3%),,1#,not_performed,None
-SRR17724357,713522,123702 (17%),,1#,not_performed,None
-SRR17724358,646496,46569 (7%),,1#,not_performed,None
-SRR17724359,20494124,3255897 (15%),,1#,not_performed,None
-SRR17724360,21594264,2090718 (9%),,1#,not_performed,None
-SRR17724361,20586916,2660008 (12%),,1#,not_performed,None
-SRR17724362,22680382,1936555 (8%),,1#,not_performed,None
-SRR17724363,20481394,2071669 (10%),,1#,not_performed,None
-SRR17724364,23380386,1760848 (7%),,1#,not_performed,None
-SRR17724365,22715330,2323051 (10%),,1#,not_performed,None
-SRR17724366,409952,7619 (1%),,1#,not_performed,None
-SRR17724367,29625336,2209420 (7%),,1#,not_performed,None
-SRR17724368,19481252,1459397 (7%),,1#,not_performed,None
-SRR17724369,20505228,1559551 (7%),,1#,not_performed,None
-SRR17724370,20728370,1979660 (9%),,1#,not_performed,None
-SRR17724371,26065850,3263658 (12%),,1#,not_performed,None
-SRR17724372,21380520,1967900 (9%),,1#,not_performed,None
-SRR17724373,20470638,1748157 (8%),,1#,not_performed,None
-SRR17724374,23434058,3516939 (15%),,1#,not_performed,None
-SRR17724375,20560104,1836387 (8%),,1#,not_performed,None
-SRR17724376,29140162,3058651 (10%),,1#,not_performed,None
-SRR17724377,802390,52746 (6%),,1#,not_performed,None
-SRR17724378,20277492,1308318 (6%),,1#,not_performed,None
-SRR17724379,25388346,1879920 (7%),,1#,not_performed,None
-SRR17724380,18295048,1991103 (10%),,1#,not_performed,None
-SRR17724381,26325658,2871858 (10%),,1#,not_performed,None
-SRR17724382,26120022,2827457 (10%),,1#,not_performed,None
-SRR17724383,819992,88994 (10%),,1#,not_performed,None
-SRR17724384,1091326,518987 (47%),,1#,not_performed,None
-SRR17724385,628172,15987 (2%),,1#,not_performed,None
-SRR17737130,7466800,102776 (1%),,1#,not_performed,None
-SRR17737131,8009218,158271 (1%),,1#,not_performed,None
-SRR17737132,13610056,1015603 (7%),,1#,not_performed,None
-SRR17737133,4832148,84228 (1%),,1#,not_performed,None
-SRR17737134,9023544,458481 (5%),,1#,not_performed,None
-SRR17737135,6552212,106676 (1%),,1#,not_performed,None
-SRR17737136,11391098,366371 (3%),,1#,not_performed,None
-SRR17737137,622564,65865 (10%),,1#,not_performed,None
-SRR17737138,711548,65110 (9%),,1#,not_performed,None
-SRR17737139,573670,49018 (8%),,1#,not_performed,None
-SRR17737140,645692,71449 (11%),,1#,not_performed,None
-SRR17737141,456704,43738 (9%),,1#,not_performed,None
-SRR17737142,652890,62638 (9%),,1#,not_performed,None
-SRR17737143,8824788,322329 (3%),,1#,not_performed,None
-SRR17737144,14544836,546772 (3%),,1#,not_performed,None
-SRR17737145,6914680,93267 (1%),,1#,not_performed,None
-SRR17737146,13143258,436527 (3%),,1#,not_performed,None
-SRR17737147,14108652,378428 (2%),,1#,not_performed,None
-SRR17737148,7423850,234759 (3%),,1#,not_performed,None
-SRR17737149,12158502,277223 (2%),,1#,not_performed,None
-SRR17737150,11958732,477960 (3%),,1#,not_performed,None
-SRR17737151,690882,29527 (4%),,1#,not_performed,None
-SRR17737152,12043902,1194252 (9%),,1#,not_performed,None
-SRR17737153,9899204,663783 (6%),,1#,not_performed,None
-SRR17737154,6888194,165106 (2%),,1#,not_performed,None
-SRR17737155,6244726,117727 (1%),,1#,not_performed,None
-SRR17737156,5959602,100326 (1%),,1#,not_performed,None
-SRR17737157,7797056,156235 (2%),,1#,not_performed,None
-SRR17749035,2657192,1620095 (60%),,1#,not_performed,None
-SRR17763858,4778656,3040805 (63%),,1#,not_performed,None
-SRR17770248,11961046,10390757 (86%),,1#,not_performed,None
-SRR17771315,7171032,2389926 (33%),,1#,not_performed,None
-SRR17771316,6829538,3588529 (52%),,1#,not_performed,None
-SRR17771317,5508174,3731123 (67%),,1#,not_performed,None
-SRR17771318,5446532,3656494 (67%),,1#,not_performed,None
-SRR17771792,819007,636233 (77%),98nt (0%),1#111nt (0%),not_performed,None
-SRR17771793,373770,283540 (75%),98nt (0%),1#111nt (0%),not_performed,None
-SRR17786017,9099828,8308097 (91%),,1#,not_performed,None
-SRR17786018,10684390,9618939 (90%),,1#,not_performed,None
-SRR17786019,12121282,11328261 (93%),,1#,not_performed,None
-SRR17786781,373550,346402 (92%),,1#,not_performed,None
-SRR17786782,542472,498837 (91%),,1#,not_performed,None
-SRR17786783,470134,440641 (93%),,1#,not_performed,None
-SRR17786784,651118,446781 (68%),,1#,not_performed,None
-SRR17786785,527664,461229 (87%),,1#,not_performed,None
-SRR17786786,634456,526408 (82%),,1#,not_performed,None
-SRR17786787,498176,458796 (92%),,1#,not_performed,None
-SRR17786788,545180,473236 (86%),,1#,not_performed,None
-SRR17786789,605362,563735 (93%),,1#,not_performed,None
-SRR17786790,710308,616026 (86%),,1#,not_performed,None
-SRR17786791,704000,643269 (91%),,1#,not_performed,None
-SRR17786792,678300,616979 (90%),,1#,not_performed,None
-SRR17786793,850636,756841 (88%),,1#,not_performed,None
-SRR17786834,260917,79904 (30%),1112nt (3%),1#2083nt (6%),not_performed,None
-SRR17786835,385737,59367 (15%),4955nt (16%),1#9264nt (30%),not_performed,None
-SRR17805971,43564,43508 (99%),,1#,not_performed,None
-SRR17805972,96783,96670 (99%),,1#,not_performed,None
-SRR17805973,1946,1908 (98%),,1#,not_performed,None
-SRR17805974,7350,7211 (98%),,1#,not_performed,None
-SRR17837492,4141330,1070645 (25%),,1#,not_performed,None
-SRR17837493,5062886,1346588 (26%),,1#,not_performed,None
-SRR17837494,6498664,1118558 (17%),,1#,not_performed,None
-SRR17837495,6990104,1728881 (24%),,1#,not_performed,None
-SRR17839318,326552,3249 (0%),,1#,not_performed,None
-SRR17839319,560776,9073 (1%),,1#,not_performed,None
-SRR17839320,777246,3701 (0%),,1#,not_performed,None
-SRR17839321,645272,3713 (0%),,1#,not_performed,None
-SRR17839739,1730548,1536208 (88%),,1#,not_performed,None
-SRR17839740,1189020,1034764 (87%),,1#,not_performed,None
-SRR17839741,1806516,1635644 (90%),,1#,not_performed,None
-SRR17839742,2422846,2221346 (91%),,1#,not_performed,None
-SRR17839744,1825078,1638464 (89%),,1#,not_performed,None
-SRR17839753,1115114,1016577 (91%),,1#,not_performed,None
-SRR17839754,2971604,2068678 (69%),,1#,not_performed,None
-SRR17839755,1380870,1300384 (94%),,1#,not_performed,None
-SRR17839756,1706986,1578147 (92%),,1#,not_performed,None
-SRR17839757,1512860,1406756 (92%),,1#,not_performed,None
-SRR17839758,1559346,1415363 (90%),,1#,not_performed,None
-SRR17839761,2327034,2140120 (91%),,1#,not_performed,None
-SRR17843586,2303632,2011965 (87%),,1#,not_performed,None
-SRR17843587,892600,735610 (82%),,1#,not_performed,None
-SRR17843588,1513160,1408981 (93%),,1#,not_performed,None
-SRR17843589,1459860,815090 (55%),,1#,not_performed,None
-SRR17843590,1608010,1474793 (91%),,1#,not_performed,None
-SRR17843591,1220476,1035177 (84%),,1#,not_performed,None
-SRR17843592,1944382,1728970 (88%),,1#,not_performed,None
-SRR17843605,1485552,1326482 (89%),,1#,not_performed,None
-SRR17843606,1594390,1451109 (91%),,1#,not_performed,None
-SRR17843607,1993114,1815947 (91%),,1#,not_performed,None
-SRR17843608,2316622,2072942 (89%),,1#,not_performed,None
-SRR17843609,1443226,1346535 (93%),,1#,not_performed,None
-SRR17843610,1965860,1805266 (91%),,1#,not_performed,None
-SRR17867385,215968,1281 (0%),,1#,not_performed,None
-SRR17867386,276998,3820 (1%),,1#,not_performed,None
-SRR17867387,1478690,1723 (0%),,1#,not_performed,None
-SRR17867388,1359978,3548 (0%),,1#,not_performed,None
-SRR17867389,842076,2201 (0%),,1#,not_performed,None
-SRR17867390,609092,9643 (1%),,1#,not_performed,None
-SRR17867391,631938,3539 (0%),,1#,not_performed,None
-SRR17867392,699028,1441 (0%),,1#,not_performed,None
-SRR17867393,595182,1802 (0%),,1#,not_performed,None
-SRR17867394,347992,804 (0%),,1#,not_performed,None
-SRR17867395,612756,8204 (1%),,1#,not_performed,None
-SRR17867396,507048,2785 (0%),,1#,not_performed,None
-SRR17867397,1483788,1193 (0%),,1#,not_performed,None
-SRR17867398,1016918,2733 (0%),,1#,not_performed,None
-SRR17867399,831150,1744 (0%),,1#,not_performed,None
-SRR17867400,929758,5090 (0%),,1#,not_performed,None
-SRR17867401,748722,1578 (0%),,1#,not_performed,None
-SRR17867402,508522,1841 (0%),,1#,not_performed,None
-SRR17867403,621018,1358 (0%),,1#,not_performed,None
-SRR17867404,917366,5889 (0%),,1#,not_performed,None
-SRR17867405,1531858,359991 (23%),,1#,not_performed,None
-SRR17867406,834988,237234 (28%),,1#,not_performed,None
-SRR17867407,755942,194121 (25%),,1#,not_performed,None
-SRR17867408,773580,54240 (7%),,1#,not_performed,None
-SRR17867409,422488,142118 (33%),,1#,not_performed,None
-SRR17867410,359586,45075 (12%),,1#,not_performed,None
-SRR17867411,453692,69169 (15%),,1#,not_performed,None
-SRR17867412,568172,40333 (7%),,1#,not_performed,None
-SRR17867413,695638,5685 (0%),,1#,not_performed,None
-SRR17867414,567792,632 (0%),,1#,not_performed,None
-SRR17867415,282542,2384 (0%),,1#,not_performed,None
-SRR17867416,266004,7223 (2%),,1#,not_performed,None
-SRR17867417,619460,7519 (1%),,1#,not_performed,None
-SRR17867418,423166,3783 (0%),,1#,not_performed,None
-SRR17867419,365276,2686 (0%),,1#,not_performed,None
-SRR17867420,214030,35 (0%),,1#,not_performed,None
-SRR17867421,233156,117 (0%),,1#,not_performed,None
-SRR17867422,274848,7249 (2%),,1#,not_performed,None
-SRR17867423,230570,3126 (1%),,1#,not_performed,None
-SRR17867424,688498,2104 (0%),,1#,not_performed,None
-SRR17867425,628466,4083 (0%),,1#,not_performed,None
-SRR17867426,706162,1365 (0%),,1#,not_performed,None
-SRR17867427,542426,2221 (0%),,1#,not_performed,None
-SRR17867428,917666,14097 (1%),,1#,not_performed,None
-SRR17867429,313912,1042 (0%),,1#,not_performed,None
-SRR17867430,337748,27109 (8%),,1#,not_performed,None
-SRR17867431,2459778,4919 (0%),,1#,not_performed,None
-SRR17867432,96536,696 (0%),,1#,not_performed,None
-SRR17867433,572172,6936 (1%),,1#,not_performed,None
-SRR17867434,637544,4464 (0%),,1#,not_performed,None
-SRR17867435,1544410,74336 (4%),,1#,not_performed,None
-SRR17867436,220554,4319 (1%),,1#,not_performed,None
-SRR17867437,819128,8940 (1%),,1#,not_performed,None
-SRR17867438,923014,61647 (6%),,1#,not_performed,None
-SRR17867439,569284,5851 (1%),,1#,not_performed,None
-SRR17867440,810166,9730 (1%),,1#,not_performed,None
-SRR17867441,780952,26683 (3%),,1#,not_performed,None
-SRR17867442,878102,191434 (21%),,1#,not_performed,None
-SRR17867443,779522,16862 (2%),,1#,not_performed,None
-SRR17867444,780914,2470 (0%),,1#,not_performed,None
-SRR17867445,650260,1608 (0%),,1#,not_performed,None
-SRR17867446,775432,74808 (9%),,1#,not_performed,None
-SRR17867447,755032,209345 (27%),,1#,not_performed,None
-SRR17867448,602512,562 (0%),,1#,not_performed,None
-SRR17867449,1532538,4668 (0%),,1#,not_performed,None
-SRR17867450,593090,22384 (3%),,1#,not_performed,None
-SRR17867451,801292,10424 (1%),,1#,not_performed,None
-SRR17867452,761902,5795 (0%),,1#,not_performed,None
-SRR17867453,889426,24700 (2%),,1#,not_performed,None
-SRR17867454,689608,141945 (20%),,1#,not_performed,None
-SRR17867455,747028,19558 (2%),,1#,not_performed,None
-SRR17867456,742560,174187 (23%),,1#,not_performed,None
-SRR17867457,761554,14403 (1%),,1#,not_performed,None
-SRR17867458,325922,2107 (0%),,1#,not_performed,None
-SRR17867459,690920,10216 (1%),,1#,not_performed,None
-SRR17867460,271690,20935 (7%),,1#,not_performed,None
-SRR17867461,622046,686 (0%),,1#,not_performed,None
-SRR17867462,627246,1086 (0%),,1#,not_performed,None
-SRR17867463,294210,1570 (0%),,1#,not_performed,None
-SRR17867464,319598,2285 (0%),,1#,not_performed,None
-SRR17867465,729396,754 (0%),,1#,not_performed,None
-SRR17867466,408470,2486 (0%),,1#,not_performed,None
-SRR17867467,1092452,127456 (11%),,1#,not_performed,None
-SRR17867468,1082130,20883 (1%),,1#,not_performed,None
-SRR17867469,878678,4033 (0%),,1#,not_performed,None
-SRR17867470,575614,44738 (7%),,1#,not_performed,None
-SRR17867471,561248,47898 (8%),,1#,not_performed,None
-SRR17867472,587782,3133 (0%),,1#,not_performed,None
-SRR17867473,559792,74369 (13%),,1#,not_performed,None
-SRR17867474,723996,12191 (1%),,1#,not_performed,None
-SRR17867475,585742,7286 (1%),,1#,not_performed,None
-SRR17867476,521514,4123 (0%),,1#,not_performed,None
-SRR17867477,509458,20038 (3%),,1#,not_performed,None
-SRR17867478,557338,6608 (1%),,1#,not_performed,None
-SRR17867479,505952,38628 (7%),,1#,not_performed,None
-SRR17867480,623294,11465 (1%),,1#,not_performed,None
-SRR17867481,1303632,19022 (1%),,1#,not_performed,None
-SRR17867482,855108,91927 (10%),,1#,not_performed,None
-SRR17867483,606964,108959 (17%),,1#,not_performed,None
-SRR17867484,505574,1852 (0%),,1#,not_performed,None
-SRR17867485,529078,6964 (1%),,1#,not_performed,None
-SRR17867486,505006,1091 (0%),,1#,not_performed,None
-SRR17869086,106107,90894 (85%),,1#,not_performed,None
-SRR17869087,121393,92014 (75%),,1#,not_performed,None
-SRR17869088,260289,226185 (86%),,1#,not_performed,None
-SRR17869089,331855,288743 (87%),,1#,not_performed,None
-SRR17869096,354159,325920 (92%),,1#,not_performed,None
-SRR17869097,214826,138918 (64%),,1#,not_performed,None
-SRR17869098,153648,113943 (74%),,1#,not_performed,None
-SRR17869101,602832,549640 (91%),,1#,not_performed,None
-SRR17951134,3198212,2569792 (80%),,1#,not_performed,None
-SRR17951285,3284362,3142365 (95%),,1#,not_performed,None
-SRR17951286,4091750,3656304 (89%),,1#,not_performed,None
-SRR17951287,2349148,2155752 (91%),,1#,not_performed,None
-SRR17951288,2238064,2098828 (93%),,1#,not_performed,None
-SRR17951289,2756418,2377030 (86%),,1#,not_performed,None
-SRR17951290,1797856,1485953 (82%),,1#,not_performed,None
-SRR17951291,4401842,3666188 (83%),,1#,not_performed,None
-SRR17951292,2031592,1922598 (94%),,1#,not_performed,None
-SRR17951293,3861650,3080576 (79%),,1#,not_performed,None
-SRR17971003,73792,60907 (82%),,1#,not_performed,None
-SRR17971128,57836,48281 (83%),,1#,not_performed,None
-SRR17971129,88355,70339 (79%),,1#,not_performed,None
-SRR17971130,136119,123936 (91%),,1#,not_performed,None
-SRR17971131,78350,64514 (82%),,1#,not_performed,None
-SRR17975893,899368,16910 (1%),,1#,not_performed,None
-SRR17975894,776842,27236 (3%),,1#,not_performed,None
-SRR17975895,450712,283998 (63%),,1#,not_performed,None
-SRR17975896,555268,234179 (42%),,1#,not_performed,None
-SRR17975897,942910,542534 (57%),,1#,not_performed,None
-SRR17975898,840976,515521 (61%),,1#,not_performed,None
-SRR17975899,836224,133647 (15%),,1#,not_performed,None
-SRR17975900,829784,214774 (25%),,1#,not_performed,None
-SRR17975901,910594,297717 (32%),,1#,not_performed,None
-SRR17975902,909528,136474 (15%),,1#,not_performed,None
-SRR17975903,552926,21649 (3%),,1#,not_performed,None
-SRR17975904,879270,353796 (40%),,1#,not_performed,None
-SRR17975905,932286,66678 (7%),,1#,not_performed,None
-SRR17975906,1036934,14016 (1%),,1#,not_performed,None
-SRR17975907,620346,113244 (18%),,1#,not_performed,None
-SRR17975908,672406,430491 (64%),,1#,not_performed,None
-SRR17975909,853852,381852 (44%),,1#,not_performed,None
-SRR17975910,951424,255118 (26%),,1#,not_performed,None
-SRR17975911,965290,77721 (8%),,1#,not_performed,None
-SRR17975912,556156,412786 (74%),,1#,not_performed,None
-SRR17975913,770370,254495 (33%),,1#,not_performed,None
-SRR17975914,420892,191923 (45%),,1#,not_performed,None
-SRR17975915,898896,21265 (2%),,1#,not_performed,None
-SRR17975916,993964,157092 (15%),,1#,not_performed,None
-SRR17975917,702442,506190 (72%),,1#,not_performed,None
-SRR17975918,989652,735627 (74%),,1#,not_performed,None
-SRR17975919,860240,355321 (41%),,1#,not_performed,None
-SRR17975920,890272,709625 (79%),,1#,not_performed,None
-SRR17975921,707390,6886 (0%),,1#,not_performed,None
-SRR17975922,754954,69627 (9%),,1#,not_performed,None
-SRR17975923,797090,307626 (38%),,1#,not_performed,None
-SRR17975924,1003440,71170 (7%),,1#,not_performed,None
-SRR17975925,1197162,916472 (76%),,1#,not_performed,None
-SRR17975926,1002246,780545 (77%),,1#,not_performed,None
-SRR17975927,932328,707535 (75%),,1#,not_performed,None
-SRR17975928,845400,133024 (15%),,1#,not_performed,None
-SRR17975929,775524,73921 (9%),,1#,not_performed,None
-SRR17975930,785882,351063 (44%),,1#,not_performed,None
-SRR17975931,718294,280160 (39%),,1#,not_performed,None
-SRR17978072,3254552,2521850 (77%),,1#,not_performed,None
-SRR18017651,2252318,2012425 (89%),,1#,not_performed,None
-SRR18017654,2864700,2634367 (91%),,1#,not_performed,None
-SRR18017658,1579436,1446356 (91%),,1#,not_performed,None
-SRR18017669,2549968,2198704 (86%),,1#,not_performed,None
-SRR18017674,2227320,1937243 (86%),,1#,not_performed,None
-SRR18017683,2730664,2487571 (91%),,1#,not_performed,None
-SRR18017686,2508368,2346048 (93%),,1#,not_performed,None
-SRR18017687,2373046,2199653 (92%),,1#,not_performed,None
-SRR18017700,1971226,1814671 (92%),,1#,not_performed,None
-SRR18017717,2226968,2079639 (93%),,1#,not_performed,None
-SRR18017724,1770206,1604647 (90%),,1#,not_performed,None
-SRR18017727,2133400,1898948 (89%),,1#,not_performed,None
-SRR18017730,3010180,2748082 (91%),,1#,not_performed,None
-SRR18017789,2243096,2016266 (89%),,1#,not_performed,None
-SRR18017791,2497292,2255369 (90%),,1#,not_performed,None
-SRR18017794,2366434,2202792 (93%),,1#,not_performed,None
-SRR18018920,2372148,2219660 (93%),,1#,not_performed,None
-SRR18036402,845864,512684 (60%),,1#,not_performed,None
-SRR18036403,649014,520052 (80%),,1#,not_performed,None
-SRR18036404,427504,388441 (90%),,1#,not_performed,None
-SRR18036405,800734,757670 (94%),,1#,not_performed,None
-SRR18036406,489176,410079 (83%),,1#,not_performed,None
-SRR18036407,761080,651866 (85%),,1#,not_performed,None
-SRR18036408,454652,436745 (96%),,1#,not_performed,None
-SRR18036409,488234,464607 (95%),,1#,not_performed,None
-SRR18036410,768942,583055 (75%),,1#,not_performed,None
-SRR18036411,602336,448187 (74%),,1#,not_performed,None
-SRR18036412,586556,535148 (91%),,1#,not_performed,None
-SRR18036413,822474,772048 (93%),,1#,not_performed,None
-SRR18036594,154545,128997 (83%),,1#,not_performed,None
-SRR18036595,140514,4033 (2%),,1#,not_performed,None
-SRR18036697,82363,1873 (2%),,1#,not_performed,None
-SRR18036698,200290,183000 (91%),,1#,not_performed,None
-SRR18036699,116396,2933 (2%),,1#,not_performed,None
-SRR18036700,136632,103572 (75%),,1#,not_performed,None
-SRR18036701,157693,2323 (1%),,1#,not_performed,None
-SRR18036702,148871,96059 (64%),,1#,not_performed,None
-SRR18050592,4388406,4270687 (97%),,1#,not_performed,None
-SRR18050593,41205,33080 (80%),,1#,not_performed,None
-SRR18050594,5451836,5295198 (97%),,1#,not_performed,None
-SRR18050641,3296432,3220561 (97%),,1#,not_performed,None
-SRR18050642,4671204,4466271 (95%),,1#,not_performed,None
-SRR18050643,3907254,3819530 (97%),,1#,not_performed,None
-SRR18050644,3930850,3854419 (98%),,1#,not_performed,None
-SRR18053867,2456288,2146691 (87%),,1#,not_performed,None
-SRR18072967,577540,408895 (70%),,1#,not_performed,None
-SRR18072968,775466,399194 (51%),,1#,not_performed,None
-SRR18072969,579728,228030 (39%),,1#,not_performed,None
-SRR18072970,664562,123901 (18%),,1#,not_performed,None
-SRR18072971,879906,246067 (27%),,1#,not_performed,None
-SRR18072972,1015980,99783 (9%),,1#,not_performed,None
-SRR18072973,884564,273315 (30%),,1#,not_performed,None
-SRR18072974,905708,579527 (63%),,1#,not_performed,None
-SRR18072975,621514,48949 (7%),,1#,not_performed,None
-SRR18072976,998142,117019 (11%),,1#,not_performed,None
-SRR18072977,722334,49418 (6%),,1#,not_performed,None
-SRR18072978,958430,601974 (62%),,1#,not_performed,None
-SRR18072979,682380,273435 (40%),,1#,not_performed,None
-SRR18072980,617806,194084 (31%),,1#,not_performed,None
-SRR18143732,1052154,845529 (80%),,1#,not_performed,None
-SRR18143733,1257322,1191926 (94%),,1#,not_performed,None
-SRR18143734,1274820,737264 (57%),,1#,not_performed,None
-SRR18143735,3577328,2978712 (83%),,1#,not_performed,None
-SRR18143736,450092,296141 (65%),,1#,not_performed,None
-SRR18143737,2215512,1959326 (88%),,1#,not_performed,None
-SRR18143738,2836444,2475005 (87%),,1#,not_performed,None
-SRR18143739,1196160,1074415 (89%),,1#,not_performed,None
-SRR18143740,479746,355652 (74%),,1#,not_performed,None
-SRR18143741,681982,452179 (66%),,1#,not_performed,None
-SRR18143742,492208,383620 (77%),,1#,not_performed,None
-SRR18143743,520700,288477 (55%),,1#,not_performed,None
-SRR18143744,1310332,1019096 (77%),,1#,not_performed,None
-SRR18143745,1210926,1063894 (87%),,1#,not_performed,None
-SRR18143746,1452878,1318510 (90%),,1#,not_performed,None
-SRR18207356,343160,16272 (4%),,1#,not_performed,None
-SRR18207357,304506,21797 (7%),,1#,not_performed,None
-SRR18207358,392684,41373 (10%),,1#,not_performed,None
-SRR18207359,472506,217859 (46%),,1#,not_performed,None
-SRR18207360,5412,9 (0%),,1#,not_performed,None
-SRR18207361,478732,88113 (18%),,1#,not_performed,None
-SRR18207362,914328,150562 (16%),,1#,not_performed,None
-SRR18207363,265674,66380 (24%),,1#,not_performed,None
-SRR18207364,394476,32677 (8%),,1#,not_performed,None
-SRR18207365,452656,18236 (4%),,1#,not_performed,None
-SRR18207366,512886,36295 (7%),,1#,not_performed,None
-SRR18207367,684024,14237 (2%),,1#,not_performed,None
-SRR18207368,416930,100668 (24%),,1#,not_performed,None
-SRR18207369,347526,11398 (3%),,1#,not_performed,None
-SRR18207370,542770,50008 (9%),,1#,not_performed,None
-SRR18207371,421732,67293 (15%),,1#,not_performed,None
-SRR18207372,483524,58775 (12%),,1#,not_performed,None
-SRR18207373,559900,38199 (6%),,1#,not_performed,None
-SRR18207374,378466,14358 (3%),,1#,not_performed,None
-SRR18207375,471872,31668 (6%),,1#,not_performed,None
-SRR18207376,385676,135170 (35%),,1#,not_performed,None
-SRR18207377,503632,64795 (12%),,1#,not_performed,None
-SRR18207378,480050,30523 (6%),,1#,not_performed,None
-SRR18207379,502866,116116 (23%),,1#,not_performed,None
-SRR18207380,517634,113866 (21%),,1#,not_performed,None
-SRR18207381,536090,62778 (11%),,1#,not_performed,None
-SRR18207382,319096,3253 (1%),,1#,not_performed,None
-SRR18207383,454222,70742 (15%),,1#,not_performed,None
-SRR18207384,355602,51692 (14%),,1#,not_performed,None
-SRR18207385,404796,56923 (14%),,1#,not_performed,None
-SRR18207386,482120,33542 (6%),,1#,not_performed,None
-SRR18207387,327794,29873 (9%),,1#,not_performed,None
-SRR18207388,850968,35888 (4%),,1#,not_performed,None
-SRR18207389,326586,8172 (2%),,1#,not_performed,None
-SRR18207390,528280,26698 (5%),,1#,not_performed,None
-SRR18207391,359932,29644 (8%),,1#,not_performed,None
-SRR18208281,8156400,7470249 (91%),,1#,not_performed,None
-SRR18208282,2917098,2439481 (83%),,1#,not_performed,None
-SRR18208283,8129514,7353268 (90%),,1#,not_performed,None
-SRR18208284,2602436,2329681 (89%),,1#,not_performed,None
-SRR18208285,7470900,6768783 (90%),,1#,not_performed,None
-SRR18208286,2048310,1757020 (85%),,1#,not_performed,None
-SRR18208287,6578790,5954112 (90%),,1#,not_performed,None
-SRR18208288,1462696,1317283 (90%),,1#,not_performed,None
-SRR18265021,1005352,937021 (93%),106nt (0%),1#509nt (1%),not_performed,None
-SRR18265022,1387820,1279483 (92%),66nt (0%),1#130nt (0%),not_performed,None
-SRR18265056,1122260,1019076 (90%),,1#,not_performed,None
-SRR18265094,1042412,969080 (92%),148nt (0%),1#556nt (1%),not_performed,None
-SRR18265095,884248,804233 (90%),66nt (0%),1#85nt (0%),not_performed,None
-SRR18265175,1353840,1237460 (91%),64nt (0%),1#144nt (0%),not_performed,None
-SRR18265176,1214766,1171465 (96%),92nt (0%),1#672nt (2%),not_performed,None
-SRR18265220,1256414,1151459 (91%),67nt (0%),1#145nt (0%),not_performed,None
-SRR18265345,1421848,1315411 (92%),505nt (1%),1#1363nt (4%),not_performed,None
-SRR18265346,1269934,1177840 (92%),145nt (0%),1#410nt (1%),not_performed,None
-SRR18265347,1113146,1011112 (90%),314nt (1%),1#1007nt (3%),not_performed,None
-SRR18265348,725072,662114 (91%),95nt (0%),1#257nt (0%),not_performed,None
-SRR18265349,1261460,1200797 (95%),86nt (0%),1#884nt (2%),not_performed,None
-SRR18265350,1425494,1310676 (91%),219nt (0%),1#804nt (2%),not_performed,None
-SRR18265351,1397510,1296890 (92%),909nt (3%),1#2664nt (8%),not_performed,None
-SRR18265352,1417856,1319120 (93%),89nt (0%),1#499nt (1%),not_performed,None
-SRR18265354,1419478,1318280 (92%),785nt (2%),1#2008nt (6%),not_performed,None
-SRR18265355,662262,562403 (84%),130nt (0%),1#581nt (1%),not_performed,None
-SRR18265356,828674,738719 (89%),202nt (0%),1#1007nt (3%),not_performed,None
-SRR18265358,1697862,1526004 (89%),,1#,not_performed,None
-SRR18266276,1925164,1586452 (82%),,1#,not_performed,None
-SRR18266277,2682848,1769896 (65%),,1#,not_performed,None
-SRR18266278,2242960,1698610 (75%),,1#,not_performed,None
-SRR18266279,3035590,1659837 (54%),,1#,not_performed,None
-SRR18266280,2202226,1386203 (62%),,1#,not_performed,None
-SRR18266281,1848334,898581 (48%),,1#,not_performed,None
-SRR18266282,1818022,1255343 (69%),,1#,not_performed,None
-SRR18266283,3316274,2627852 (79%),,1#,not_performed,None
-SRR18266284,2662832,2060301 (77%),,1#,not_performed,None
-SRR18270805,2352314,1137899 (48%),,1#,not_performed,None
-SRR18270806,2269214,1271129 (56%),,1#,not_performed,None
-SRR18270807,3152324,910438 (28%),,1#,not_performed,None
-SRR18270808,2827748,1712373 (60%),,1#,not_performed,None
-SRR18270809,2217110,933922 (42%),,1#,not_performed,None
-SRR18270810,2410444,545144 (22%),,1#,not_performed,None
-SRR18270811,2954858,869384 (29%),,1#,not_performed,None
-SRR18270812,2261528,673202 (29%),,1#,not_performed,None
-SRR18270813,2682660,623865 (23%),,1#,not_performed,None
-SRR18270814,2057800,767308 (37%),,1#,not_performed,None
-SRR18270815,2578268,1862971 (72%),,1#,not_performed,None
-SRR18270816,3117758,813180 (26%),,1#,not_performed,None
-SRR18270817,2330040,886027 (38%),,1#,not_performed,None
-SRR18270818,2614384,880960 (33%),,1#,not_performed,None
-SRR18270819,2250448,925927 (41%),,1#,not_performed,None
-SRR18270820,2014900,798958 (39%),18316nt (61%),1#18638nt (62%),not_performed,None
-SRR18270821,2789902,810461 (29%),19132nt (63%),1#20280nt (67%),not_performed,None
-SRR18270822,1970258,289710 (14%),25602nt (85%),1#25724nt (86%),not_performed,None
-SRR18270823,2895706,394805 (13%),19727nt (65%),1#20096nt (67%),not_performed,None
-SRR18270824,3370056,2375578 (70%),15134nt (50%),1#16004nt (53%),not_performed,None
-SRR18270825,2485938,912838 (36%),22322nt (74%),1#22560nt (75%),not_performed,None
-SRR18270826,2056586,693572 (33%),22968nt (76%),1#23150nt (77%),not_performed,None
-SRR18270827,2744164,335684 (12%),20981nt (70%),1#21787nt (72%),not_performed,None
-SRR18270828,1878162,505039 (26%),24328nt (81%),1#25058nt (83%),not_performed,None
-SRR18270829,2233480,781761 (35%),19765nt (66%),1#20559nt (68%),not_performed,None
-SRR18270830,2024980,200033 (9%),23148nt (77%),1#23452nt (78%),not_performed,None
-SRR18270831,1960234,522941 (26%),23386nt (78%),1#23691nt (79%),not_performed,None
-SRR18270832,2434822,730249 (29%),22336nt (74%),1#22746nt (76%),not_performed,None
-SRR18270833,2667998,765370 (28%),12660nt (42%),1#13069nt (43%),not_performed,None
-SRR18270834,2582986,786371 (30%),,1#,not_performed,None
-SRR18270835,3109044,658994 (21%),22487nt (75%),1#22722nt (75%),not_performed,None
-SRR18270836,2687926,899605 (33%),24149nt (80%),1#24298nt (81%),not_performed,None
-SRR18270837,1801492,494590 (27%),21128nt (70%),1#21601nt (72%),not_performed,None
-SRR18270838,2013602,644874 (32%),24846nt (83%),1#25559nt (85%),not_performed,None
-SRR18280270,2954944,2803025 (94%),62nt (0%),1#67nt (0%),not_performed,None
-SRR18280271,3322250,3136223 (94%),62nt (0%),1#66nt (0%),not_performed,None
-SRR18280272,2992816,2851694 (95%),62nt (0%),1#67nt (0%),not_performed,None
-SRR18280411,2826264,2569297 (90%),58nt (0%),1#111nt (0%),not_performed,None
-SRR18280412,3173738,2884917 (90%),62nt (0%),1#85nt (0%),not_performed,None
-SRR18280413,2625450,2399871 (91%),85nt (0%),1#106nt (0%),not_performed,None
-SRR18280414,2891184,2643261 (91%),127nt (0%),1#130nt (0%),not_performed,None
-SRR18280415,2883372,2701268 (93%),79nt (0%),1#149nt (0%),not_performed,None
-SRR18300800,2110310,1729263 (81%),506nt (1%),1#604nt (2%),not_performed,None
-SRR18300801,2508320,2052580 (81%),489nt (1%),1#543nt (1%),not_performed,None
-SRR18300802,2827516,1179275 (41%),11808nt (39%),1#12822nt (42%),not_performed,None
-SRR18300803,809322,362050 (44%),8652nt (28%),1#9308nt (31%),not_performed,None
-SRR18300804,1237770,429379 (34%),13746nt (45%),1#14450nt (48%),not_performed,None
-SRR18300805,2128974,1718449 (80%),2435nt (8%),1#2668nt (8%),not_performed,None
-SRR18300806,948076,798203 (84%),1278nt (4%),1#1551nt (5%),not_performed,None
-SRR18300807,2674830,2121054 (79%),345nt (1%),1#712nt (2%),not_performed,None
-SRR18300808,1332520,951599 (71%),902nt (3%),1#1146nt (3%),not_performed,None
-SRR18300809,1571054,1280877 (81%),3089nt (10%),1#3352nt (11%),not_performed,None
-SRR18300810,1758128,1172120 (66%),575nt (1%),1#850nt (2%),not_performed,None
-SRR18300811,1694496,1432355 (84%),142nt (0%),1#245nt (0%),not_performed,None
-SRR18321871,2113402,1186839 (56%),1134nt (3%),1#1344nt (4%),not_performed,None
-SRR18321872,2070104,1700374 (82%),3998nt (13%),1#4427nt (14%),not_performed,None
-SRR18321873,6629292,965532 (14%),5036nt (16%),1#6009nt (20%),not_performed,None
-SRR18321874,2096888,1228281 (58%),3397nt (11%),1#3635nt (12%),not_performed,None
-SRR18321875,3591702,978280 (27%),9509nt (31%),1#9751nt (32%),not_performed,None
-SRR18321876,5116480,1694231 (33%),4621nt (15%),1#5175nt (17%),not_performed,None
-SRR18321877,2412314,2117967 (87%),1160nt (3%),1#1303nt (4%),not_performed,None
-SRR18321880,6303136,1194939 (18%),5718nt (19%),1#6236nt (20%),not_performed,None
-SRR18337866,1397660,1309674 (93%),1389nt (4%),1#3904nt (13%),not_performed,None
-SRR18337868,1451556,1380300 (95%),2309nt (7%),1#4743nt (15%),not_performed,None
-SRR18337869,1488516,1388513 (93%),1168nt (3%),1#3707nt (12%),not_performed,None
-SRR18337871,1406780,1323406 (94%),1855nt (6%),1#4957nt (16%),not_performed,None
-SRR18337873,973698,906259 (93%),2538nt (8%),1#5669nt (18%),not_performed,None
-SRR18337874,1395212,1297026 (92%),1519nt (5%),1#2674nt (8%),not_performed,None
-SRR18337886,1011486,961119 (95%),1449nt (4%),1#3718nt (12%),not_performed,None
-SRR18337890,1455224,1304249 (89%),1065nt (3%),1#2863nt (9%),not_performed,None
-SRR18337892,1279534,1182133 (92%),1174nt (3%),1#3312nt (11%),not_performed,None
-SRR18429419,30619,22772 (74%),6358nt (21%),1#13589nt (45%),not_performed,None
-SRR18429420,25033,18861 (75%),1181nt (3%),1#6450nt (21%),not_performed,None
-SRR18429421,26387,20678 (78%),4781nt (15%),1#12962nt (43%),not_performed,None
-SRR18429422,36376,27591 (75%),349nt (1%),1#1441nt (4%),not_performed,None
-SRR18429423,14369,11755 (81%),10029nt (33%),1#17609nt (58%),not_performed,None
-SRR18429448,18428,6745 (36%),5864nt (19%),1#13053nt (43%),not_performed,None
-SRR18429449,20466,2685 (13%),11345nt (37%),1#18105nt (60%),not_performed,None
-SRR18429450,32230,5029 (15%),9615nt (32%),1#17618nt (58%),not_performed,None
-SRR18429472,32273,5293 (16%),7742nt (25%),1#14446nt (48%),not_performed,None
-SRR18429473,15294,1037 (6%),12369nt (41%),1#21021nt (70%),not_performed,None
-SRR18429474,61973,9074 (14%),9086nt (30%),1#14840nt (49%),not_performed,None
-SRR18429475,16950,3304 (19%),10435nt (34%),1#19831nt (66%),not_performed,None
-SRR18429476,12373,2931 (23%),9704nt (32%),1#17599nt (58%),not_performed,None
-SRR18429846,28216,18546 (65%),6310nt (21%),1#14310nt (47%),not_performed,None
-SRR18430166,38106,29160 (76%),213nt (0%),1#1525nt (5%),not_performed,None
-SRR18452471,2471412,1816195 (73%),664nt (2%),1#904nt (3%),not_performed,None
-SRR18452472,1935284,1520621 (78%),35nt (0%),1#59nt (0%),not_performed,None
-SRR18452473,1586562,226637 (14%),20303nt (67%),1#21690nt (72%),not_performed,None
-SRR18452474,3209606,1537448 (47%),22655nt (75%),1#24240nt (81%),not_performed,None
-SRR18479769,15526,4439 (28%),10236nt (34%),1#18832nt (62%),not_performed,None
-SRR18490815,1683628,1213051 (72%),2532nt (8%),1#2972nt (9%),not_performed,None
-SRR18490816,1060204,119200 (11%),21944nt (73%),1#23122nt (77%),not_performed,None
-SRR18490817,556518,328485 (59%),3120nt (10%),1#3360nt (11%),not_performed,None
-SRR18490818,1067104,712373 (66%),2703nt (9%),1#3184nt (10%),not_performed,None
-SRR18490819,943906,505185 (53%),14180nt (47%),1#14982nt (50%),not_performed,None
-SRR18490820,1247304,907323 (72%),940nt (3%),1#1201nt (4%),not_performed,None
-SRR18490821,1347030,422862 (31%),7646nt (25%),1#8601nt (28%),not_performed,None
-SRR18490822,189280,33370 (17%),25778nt (86%),1#26060nt (87%),not_performed,None
-SRR18490823,1259036,512534 (40%),15983nt (53%),1#17017nt (56%),not_performed,None
-SRR18490824,590318,310482 (52%),22070nt (73%),1#22853nt (76%),not_performed,None
-SRR18490825,603120,396939 (65%),12587nt (42%),1#12992nt (43%),not_performed,None
-SRR18490826,783474,101037 (12%),16304nt (54%),1#16791nt (56%),not_performed,None
-SRR18490827,704724,139483 (19%),16476nt (55%),1#17473nt (58%),not_performed,None
-SRR18490828,1020734,498868 (48%),4336nt (14%),1#5352nt (17%),not_performed,None
-SRR18490829,974208,678475 (69%),1740nt (5%),1#2253nt (7%),not_performed,None
-SRR18490830,379164,152462 (40%),6809nt (22%),1#7704nt (25%),not_performed,None
-SRR18490831,450354,280524 (62%),7161nt (23%),1#7953nt (26%),not_performed,None
-SRR18490832,725784,438913 (60%),2780nt (9%),1#2967nt (9%),not_performed,None
-SRR18490833,1045434,442633 (42%),6254nt (20%),1#6760nt (22%),not_performed,None
-SRR18490834,1961354,1127661 (57%),8061nt (26%),1#8826nt (29%),not_performed,None
-SRR18490835,1747318,1168473 (66%),4465nt (14%),1#5773nt (19%),not_performed,None
-SRR18530519,2706724,1923089 (71%),24511nt (81%),1#24833nt (83%),not_performed,None
-SRR18530520,3993902,330279 (8%),21556nt (72%),1#21802nt (72%),not_performed,None
-SRR18530521,2847806,2242867 (78%),20108nt (67%),1#20894nt (69%),not_performed,None
-SRR18530522,3301106,1271800 (38%),19188nt (64%),1#20209nt (67%),not_performed,None
-SRR18530523,2324586,1335843 (57%),18527nt (61%),1#19106nt (63%),not_performed,None
-SRR18530524,2693654,1128565 (41%),21303nt (71%),1#21516nt (71%),not_performed,None
-SRR18530525,3708870,631302 (17%),20334nt (67%),1#20946nt (70%),not_performed,None
-SRR18530526,2862308,1405232 (49%),22657nt (75%),1#23411nt (78%),not_performed,None
-SRR18530527,2436662,574842 (23%),22314nt (74%),1#22654nt (75%),not_performed,None
-SRR18530528,2812162,936828 (33%),18416nt (61%),1#19085nt (63%),not_performed,None
-SRR18530529,3101156,1422403 (45%),21714nt (72%),1#21887nt (73%),not_performed,None
-SRR18530530,3029658,1073920 (35%),19224nt (64%),1#20329nt (67%),not_performed,None
-SRR18530531,2877370,287628 (9%),20305nt (67%),1#21014nt (70%),not_performed,None
-SRR18530532,3442274,990954 (28%),18630nt (62%),1#20614nt (68%),not_performed,None
-SRR18530533,2466700,845937 (34%),19292nt (64%),1#20014nt (66%),not_performed,None
-SRR18530534,2090386,649267 (31%),20519nt (68%),1#21097nt (70%),not_performed,None
-SRR18530535,2260790,626893 (27%),20934nt (70%),1#21350nt (71%),not_performed,None
-SRR18530536,3427556,1141787 (33%),18350nt (61%),1#19322nt (64%),not_performed,None
-SRR18530537,2001194,1001138 (50%),18759nt (62%),1#19144nt (64%),not_performed,None
-SRR18530538,3156660,1587617 (50%),18772nt (62%),1#19242nt (64%),not_performed,None
-SRR18530539,3019470,771790 (25%),23705nt (79%),1#23881nt (79%),not_performed,None
-SRR18530540,3395370,1093574 (32%),23922nt (79%),1#24772nt (82%),not_performed,None
-SRR18530541,2134798,1377195 (64%),20781nt (69%),1#21040nt (70%),not_performed,None
-SRR18530542,3262500,356511 (10%),21563nt (72%),1#21906nt (73%),not_performed,None
-SRR18530543,2168804,660474 (30%),18135nt (60%),1#19105nt (63%),not_performed,None
-SRR18530544,2858326,2224420 (77%),8728nt (29%),1#9342nt (31%),not_performed,None
-SRR18545503,81662,79906 (97%),4nt (0%),1#705nt (2%),not_performed,None
-SRR18545504,119114,116842 (98%),12nt (0%),1#90nt (0%),not_performed,None
-SRR18545505,54758,51153 (93%),177nt (0%),1#1671nt (5%),not_performed,None
-SRR18545506,55052,52539 (95%),157nt (0%),1#1701nt (5%),not_performed,None
-SRR18545507,27627,25076 (90%),1143nt (3%),1#4224nt (14%),not_performed,None
-SRR18545509,59765,56874 (95%),286nt (0%),1#2267nt (7%),not_performed,None
-SRR18545510,88538,84464 (95%),200nt (0%),1#905nt (3%),not_performed,None
-SRR18547526,2381044,1947824 (81%),2911nt (9%),1#3523nt (11%),not_performed,None
-SRR18547527,6215340,1395236 (22%),1258nt (4%),1#1866nt (6%),not_performed,None
-SRR18547528,2924180,2221087 (75%),474nt (1%),1#566nt (1%),not_performed,None
-SRR18547529,5460690,1137157 (20%),2113nt (7%),1#2385nt (7%),not_performed,None
-SRR18547530,3875354,3075047 (79%),350nt (1%),1#367nt (1%),not_performed,None
-SRR18547531,2800186,2285459 (81%),816nt (2%),1#1142nt (3%),not_performed,None
-SRR18573111,1651114,729825 (44%),3375nt (11%),1#4081nt (13%),not_performed,None
-SRR18573112,2070284,1384584 (66%),2012nt (6%),1#2940nt (9%),not_performed,None
-SRR18573113,1163526,544908 (46%),11182nt (37%),1#12381nt (41%),not_performed,None
-SRR18573114,1390468,959510 (69%),854nt (2%),1#1195nt (3%),not_performed,None
-SRR18573115,1755168,1149980 (65%),5449nt (18%),1#6252nt (20%),not_performed,None
-SRR18573116,709290,109360 (15%),21308nt (71%),1#22342nt (74%),not_performed,None
-SRR18573117,631174,190519 (30%),13914nt (46%),1#14706nt (49%),not_performed,None
-SRR18573118,321946,53460 (16%),20172nt (67%),1#20701nt (69%),not_performed,None
-SRR18573119,1195652,857732 (71%),3372nt (11%),1#3936nt (13%),not_performed,None
-SRR18573120,711388,533447 (74%),378nt (1%),1#633nt (2%),not_performed,None
-SRR18573121,1344532,1118261 (83%),329nt (1%),1#360nt (1%),not_performed,None
-SRR18573122,1218560,832059 (68%),3433nt (11%),1#3935nt (13%),not_performed,None
-SRR18573123,1177054,917592 (77%),140nt (0%),1#195nt (0%),not_performed,None
-SRR18573124,1174200,869447 (74%),680nt (2%),1#1216nt (4%),not_performed,None
-SRR18573125,512028,60734 (11%),24910nt (83%),1#25457nt (85%),not_performed,None
-SRR18573126,577286,107107 (18%),19512nt (65%),1#20191nt (67%),not_performed,None
-SRR18573989,3867160,3454982 (89%),2937nt (9%),1#3665nt (12%),not_performed,None
-SRR18573990,3818068,2980472 (78%),15944nt (53%),1#16823nt (56%),not_performed,None
-SRR18573991,3520706,1823013 (51%),12865nt (43%),1#15822nt (52%),not_performed,None
-SRR18643444,4340462,3561579 (82%),4433nt (14%),1#4740nt (15%),not_performed,None
-SRR18643446,4447980,3688291 (82%),10052nt (33%),1#10529nt (35%),not_performed,None
-SRR18643447,7154226,6226967 (87%),5706nt (19%),1#5989nt (20%),not_performed,None
-SRR18643448,4964768,3732876 (75%),4949nt (16%),1#5292nt (17%),not_performed,None
-SRR18674539,447645,338041 (75%),480nt (1%),1#2270nt (7%),not_performed,None
-SRR18674541,1025364,950504 (92%),6nt (0%),1#78nt (0%),not_performed,None
-SRR18674542,756045,620772 (82%),5nt (0%),1#82nt (0%),not_performed,None
-SRR18674546,582470,541895 (93%),8nt (0%),1#276nt (0%),not_performed,None
-SRR18674547,1102196,1015755 (92%),5nt (0%),1#76nt (0%),not_performed,None
-SRR18674679,518761,450239 (86%),1nt (0%),1#331nt (1%),not_performed,None
-SRR18674680,567625,526670 (92%),1nt (0%),1#10nt (0%),not_performed,None
-SRR18674683,505257,413685 (81%),559nt (1%),1#3862nt (12%),not_performed,None
-SRR18674685,491919,398526 (81%),3nt (0%),1#83nt (0%),not_performed,None
-SRR18674686,622715,586623 (94%),2nt (0%),1#11nt (0%),not_performed,None
-SRR18674688,1198974,1134711 (94%),2nt (0%),1#83nt (0%),not_performed,None
-SRR18674689,1174672,1091708 (92%),4nt (0%),1#78nt (0%),not_performed,None
-SRR18674691,366620,250609 (68%),667nt (2%),1#4266nt (14%),not_performed,None
-SRR18674722,696875,653967 (93%),3nt (0%),1#84nt (0%),not_performed,None
-SRR18677369,1479096,48354 (3%),546nt (1%),1#2359nt (7%),not_performed,None
-SRR18677370,1469198,290828 (19%),182nt (0%),1#412nt (1%),not_performed,None
-SRR18677371,2705012,808910 (29%),86nt (0%),1#87nt (0%),not_performed,None
-SRR18677372,2727194,331678 (12%),103nt (0%),1#298nt (0%),not_performed,None
-SRR18677373,2930116,839064 (28%),67nt (0%),1#67nt (0%),not_performed,None
-SRR18677374,1910906,417604 (21%),86nt (0%),1#275nt (0%),not_performed,None
-SRR18677375,1691614,133123 (7%),481nt (1%),1#2671nt (8%),not_performed,None
+SRR16828363,632664,137117,,,not_performed,None
+SRR16828364,458116,177478,,,not_performed,None
+SRR16828365,351980,54281,,,not_performed,None
+SRR16828366,322968,21226,,,not_performed,None
+SRR16828367,250920,24752,,,not_performed,None
+SRR16828368,261146,20964,,,not_performed,None
+SRR16828369,333366,22160,,,not_performed,None
+SRR16828370,384632,18791,,,not_performed,None
+SRR16828371,403370,39248,,,not_performed,None
+SRR16828372,325846,63982,,,not_performed,None
+SRR16828373,271852,21943,,,not_performed,None
+SRR16828374,307272,25614,,,not_performed,None
+SRR16828375,148574,7375,,,not_performed,None
+SRR16828376,479676,90263,,,not_performed,None
+SRR16828377,401236,28574,,,not_performed,None
+SRR16828378,236128,32036,,,not_performed,None
+SRR16828379,288528,23233,,,not_performed,None
+SRR17066048,5668942,4421649,,,not_performed,None
+SRR17066049,2654612,104748,,,not_performed,None
+SRR17066050,3917538,91138,,,not_performed,None
+SRR17066051,3651432,3352659,,,not_performed,None
+SRR17066052,3605360,2897226,,,not_performed,None
+SRR17066053,3188018,6243,,,not_performed,None
+SRR17066054,4513822,2301581,,,not_performed,None
+SRR17066055,3341206,10453,,,not_performed,None
+SRR17074181,274910,62973,,,not_performed,None
+SRR17074182,149943,18161,,,not_performed,None
+SRR17074183,345486,2054,,,not_performed,None
+SRR17074184,36083,1552,,,not_performed,None
+SRR17074229,94830,47996,,,not_performed,None
+SRR17074230,530625,412170,,,not_performed,None
+SRR17074231,96643,43860,,,not_performed,None
+SRR17074232,73774,15914,,,not_performed,None
+SRR17146296,69146,3274,,,not_performed,None
+SRR17146297,76659,6951,,,not_performed,None
+SRR17146298,85550,14090,,,not_performed,None
+SRR17146299,62786,4133,,,not_performed,None
+SRR17146300,46847,7038,,,not_performed,None
+SRR17146301,66718,5853,,,not_performed,None
+SRR17517918,18118292,2355924,,,not_performed,None
+SRR17517919,21460944,2786659,,,not_performed,None
+SRR17517920,26616874,1207289,,,not_performed,None
+SRR17517921,26847348,3037747,,,not_performed,None
+SRR17540870,6456034,6139977,,,not_performed,None
+SRR17540871,7239436,6922734,,,not_performed,None
+SRR17540872,3687990,3498847,,,not_performed,None
+SRR17540873,4459098,4220298,,,not_performed,None
+SRR17540874,4736492,4430218,,,not_performed,None
+SRR17540875,4762216,4438520,,,not_performed,None
+SRR17540876,5418372,5028957,,,not_performed,None
+SRR17540877,7198668,5649533,,,not_performed,None
+SRR17578348,2000066,1608317,,,not_performed,None
+SRR17578349,1966816,905658,,,not_performed,None
+SRR17578350,3617894,1565774,,,not_performed,None
+SRR17578351,2461534,629097,,,not_performed,None
+SRR17578352,2506938,1067674,,,not_performed,None
+SRR17578353,2800876,1866780,,,not_performed,None
+SRR17578354,2060830,1348446,,,not_performed,None
+SRR17578355,2861192,1755198,,,not_performed,None
+SRR17654134,4637110,1990031,,,not_performed,None
+SRR17654135,8667396,3979292,,,not_performed,None
+SRR17654136,3498330,668189,,,not_performed,None
+SRR17654137,4310540,122,,,not_performed,None
+SRR17654138,4351812,1147086,,,not_performed,None
+SRR17654139,3872522,815819,,,not_performed,None
+SRR17654140,4613648,141,,,not_performed,None
+SRR17654141,7018478,297610,,,not_performed,None
+SRR17657410,3126572,2173372,,,not_performed,None
+SRR17657411,5226076,4102804,,,not_performed,None
+SRR17657412,3933092,1731531,,,not_performed,None
+SRR17657413,3475400,1817449,,,not_performed,None
+SRR17657414,2898858,1453536,,,not_performed,None
+SRR17657415,6018986,5195341,,,not_performed,None
+SRR17657416,2449710,991665,,,not_performed,None
+SRR17657417,3562054,1294743,,,not_performed,None
+SRR17676235,7292848,4265852,,,not_performed,None
+SRR17676236,8369660,5843824,,,not_performed,None
+SRR17676237,4997294,106155,,,not_performed,None
+SRR17676238,5224670,77,,,not_performed,None
+SRR17676239,2850842,41,,,not_performed,None
+SRR17676240,6310378,3336702,,,not_performed,None
+SRR17676241,6464622,414909,,,not_performed,None
+SRR17676242,4459098,70,,,not_performed,None
+SRR17688887,5003164,3696979,,,not_performed,None
+SRR17688888,18043914,14391125,,,not_performed,None
+SRR17688889,8181620,2452935,,,not_performed,None
+SRR17688890,5651108,77,,,not_performed,None
+SRR17688891,5287778,4394947,,,not_performed,None
+SRR17688892,7067456,5807604,,,not_performed,None
+SRR17688893,6355728,105,,,not_performed,None
+SRR17688894,6521086,164343,,,not_performed,None
+SRR17691854,15239568,2905474,,,not_performed,None
+SRR17691855,12590010,10800054,,,not_performed,None
+SRR17691856,16449286,7374721,,,not_performed,None
+SRR17691857,13340938,11096538,,,not_performed,None
+SRR17720373,3328760,3251201,,,not_performed,None
+SRR17720374,3861006,3726413,,,not_performed,None
+SRR17720375,2901752,1273201,,,not_performed,None
+SRR17720376,3832118,3576187,,,not_performed,None
+SRR17721362,515100,169653,,,not_performed,None
+SRR17721363,469628,229488,,,not_performed,None
+SRR17721364,484126,114006,,,not_performed,None
+SRR17721365,355433,98482,,,not_performed,None
+SRR17721366,7083498,343352,,,not_performed,None
+SRR17721367,4861734,594937,,,not_performed,None
+SRR17721368,9123908,448775,,,not_performed,None
+SRR17721369,3465302,335300,,,not_performed,None
+SRR17721553,131082,38706,,,not_performed,None
+SRR17721554,173520,22919,,,not_performed,None
+SRR17721555,160891,21761,,,not_performed,None
+SRR17721556,150925,11358,,,not_performed,None
+SRR17724289,184396,9882,,,not_performed,None
+SRR17724290,228634,56553,,,not_performed,None
+SRR17724291,320098,245463,,,not_performed,None
+SRR17724292,283408,155459,,,not_performed,None
+SRR17724293,344184,213307,,,not_performed,None
+SRR17724294,368648,303513,,,not_performed,None
+SRR17724295,320674,119420,,,not_performed,None
+SRR17724296,911236,26851,,,not_performed,None
+SRR17724297,758734,185255,,,not_performed,None
+SRR17724298,1038732,753650,,,not_performed,None
+SRR17724299,1228748,1021922,,,not_performed,None
+SRR17724300,441228,6269,,,not_performed,None
+SRR17724301,716246,142171,,,not_performed,None
+SRR17724302,1217594,1003921,,,not_performed,None
+SRR17724303,957164,411448,,,not_performed,None
+SRR17724304,673692,8487,,,not_performed,None
+SRR17724305,681108,8857,,,not_performed,None
+SRR17724306,536726,7627,,,not_performed,None
+SRR17724307,794680,22863,,,not_performed,None
+SRR17724308,590366,24239,,,not_performed,None
+SRR17724309,1319956,909834,,,not_performed,None
+SRR17724310,1217730,856092,,,not_performed,None
+SRR17724311,22754806,3403778,,,not_performed,None
+SRR17724312,21944482,2139976,,,not_performed,None
+SRR17724313,27957584,1379399,,,not_performed,None
+SRR17724314,31402356,1107220,,,not_performed,None
+SRR17724315,20609446,1740170,,,not_performed,None
+SRR17724316,549280,30128,,,not_performed,None
+SRR17724317,15759566,1253964,,,not_performed,None
+SRR17724318,28487136,748055,,,not_performed,None
+SRR17724319,14865188,1207640,,,not_performed,None
+SRR17724320,18928660,2362021,,,not_performed,None
+SRR17724321,28980702,3204677,,,not_performed,None
+SRR17724322,34065400,1429507,,,not_performed,None
+SRR17724323,31682420,882007,,,not_performed,None
+SRR17724324,35457806,767175,,,not_performed,None
+SRR17724325,23947150,1100933,,,not_performed,None
+SRR17724326,26247538,1733515,,,not_performed,None
+SRR17724327,616768,169245,,,not_performed,None
+SRR17724328,21780308,2414051,,,not_performed,None
+SRR17724329,28120244,2667097,,,not_performed,None
+SRR17724330,31628098,1664593,,,not_performed,None
+SRR17724331,20403134,2196989,,,not_performed,None
+SRR17724332,26740420,2690452,,,not_performed,None
+SRR17724333,24666132,1385407,,,not_performed,None
+SRR17724334,23503508,828039,,,not_performed,None
+SRR17724335,27111224,2113694,,,not_performed,None
+SRR17724336,16969792,1408661,,,not_performed,None
+SRR17724337,24359922,1807843,,,not_performed,None
+SRR17724338,657686,102137,,,not_performed,None
+SRR17724339,22488838,4319087,,,not_performed,None
+SRR17724340,22508886,2364432,,,not_performed,None
+SRR17724341,45043484,2917212,,,not_performed,None
+SRR17724342,28550754,1727545,,,not_performed,None
+SRR17724343,28550754,1727545,,,not_performed,None
+SRR17724344,22215044,2579378,,,not_performed,None
+SRR17724345,26014110,2165757,,,not_performed,None
+SRR17724346,25882926,2031427,,,not_performed,None
+SRR17724347,24523252,2719465,,,not_performed,None
+SRR17724348,25145414,2161553,,,not_performed,None
+SRR17724349,601848,100702,,,not_performed,None
+SRR17724350,25363982,2493430,,,not_performed,None
+SRR17724351,23308330,1377986,,,not_performed,None
+SRR17724352,20226454,2439221,,,not_performed,None
+SRR17724353,27623134,765600,,,not_performed,None
+SRR17724354,786990,19950,,,not_performed,None
+SRR17724355,657500,57310,,,not_performed,None
+SRR17724356,589306,22602,,,not_performed,None
+SRR17724357,713522,123702,,,not_performed,None
+SRR17724358,646496,46569,,,not_performed,None
+SRR17724359,20494124,3255897,,,not_performed,None
+SRR17724360,21594264,2090718,,,not_performed,None
+SRR17724361,20586916,2660008,,,not_performed,None
+SRR17724362,22680382,1936555,,,not_performed,None
+SRR17724363,20481394,2071669,,,not_performed,None
+SRR17724364,23380386,1760848,,,not_performed,None
+SRR17724365,22715330,2323051,,,not_performed,None
+SRR17724366,409952,7619,,,not_performed,None
+SRR17724367,29625336,2209420,,,not_performed,None
+SRR17724368,19481252,1459397,,,not_performed,None
+SRR17724369,20505228,1559551,,,not_performed,None
+SRR17724370,20728370,1979660,,,not_performed,None
+SRR17724371,26065850,3263658,,,not_performed,None
+SRR17724372,21380520,1967900,,,not_performed,None
+SRR17724373,20470638,1748157,,,not_performed,None
+SRR17724374,23434058,3516939,,,not_performed,None
+SRR17724375,20560104,1836387,,,not_performed,None
+SRR17724376,29140162,3058651,,,not_performed,None
+SRR17724377,802390,52746,,,not_performed,None
+SRR17724378,20277492,1308318,,,not_performed,None
+SRR17724379,25388346,1879920,,,not_performed,None
+SRR17724380,18295048,1991103,,,not_performed,None
+SRR17724381,26325658,2871858,,,not_performed,None
+SRR17724382,26120022,2827457,,,not_performed,None
+SRR17724383,819992,88994,,,not_performed,None
+SRR17724384,1091326,518987,,,not_performed,None
+SRR17724385,628172,15987,,,not_performed,None
+SRR17737130,7466800,102776,,,not_performed,None
+SRR17737131,8009218,158271,,,not_performed,None
+SRR17737132,13610056,1015603,,,not_performed,None
+SRR17737133,4832148,84228,,,not_performed,None
+SRR17737134,9023544,458481,,,not_performed,None
+SRR17737135,6552212,106676,,,not_performed,None
+SRR17737136,11391098,366371,,,not_performed,None
+SRR17737137,622564,65865,,,not_performed,None
+SRR17737138,711548,65110,,,not_performed,None
+SRR17737139,573670,49018,,,not_performed,None
+SRR17737140,645692,71449,,,not_performed,None
+SRR17737141,456704,43738,,,not_performed,None
+SRR17737142,652890,62638,,,not_performed,None
+SRR17737143,8824788,322329,,,not_performed,None
+SRR17737144,14544836,546772,,,not_performed,None
+SRR17737145,6914680,93267,,,not_performed,None
+SRR17737146,13143258,436527,,,not_performed,None
+SRR17737147,14108652,378428,,,not_performed,None
+SRR17737148,7423850,234759,,,not_performed,None
+SRR17737149,12158502,277223,,,not_performed,None
+SRR17737150,11958732,477960,,,not_performed,None
+SRR17737151,690882,29527,,,not_performed,None
+SRR17737152,12043902,1194252,,,not_performed,None
+SRR17737153,9899204,663783,,,not_performed,None
+SRR17737154,6888194,165106,,,not_performed,None
+SRR17737155,6244726,117727,,,not_performed,None
+SRR17737156,5959602,100326,,,not_performed,None
+SRR17737157,7797056,156235,,,not_performed,None
+SRR17749035,2657192,1620095,,,not_performed,None
+SRR17763858,4778656,3040805,,,not_performed,None
+SRR17770248,11961046,10390757,,,not_performed,None
+SRR17771315,7171032,2389926,,,not_performed,None
+SRR17771316,6829538,3588529,,,not_performed,None
+SRR17771317,5508174,3731123,,,not_performed,None
+SRR17771318,5446532,3656494,,,not_performed,None
+SRR17771792,819007,636233,98nt,111nt,not_performed,None
+SRR17771793,373770,283540,98nt,111nt,not_performed,None
+SRR17786017,9099828,8308097,,,not_performed,None
+SRR17786018,10684390,9618939,,,not_performed,None
+SRR17786019,12121282,11328261,,,not_performed,None
+SRR17786781,373550,346402,,,not_performed,None
+SRR17786782,542472,498837,,,not_performed,None
+SRR17786783,470134,440641,,,not_performed,None
+SRR17786784,651118,446781,,,not_performed,None
+SRR17786785,527664,461229,,,not_performed,None
+SRR17786786,634456,526408,,,not_performed,None
+SRR17786787,498176,458796,,,not_performed,None
+SRR17786788,545180,473236,,,not_performed,None
+SRR17786789,605362,563735,,,not_performed,None
+SRR17786790,710308,616026,,,not_performed,None
+SRR17786791,704000,643269,,,not_performed,None
+SRR17786792,678300,616979,,,not_performed,None
+SRR17786793,850636,756841,,,not_performed,None
+SRR17786834,260917,79904,1112nt,2083nt,not_performed,None
+SRR17786835,385737,59367,4955nt,9264nt,not_performed,None
+SRR17805971,43564,43508,,,not_performed,None
+SRR17805972,96783,96670,,,not_performed,None
+SRR17805973,1946,1908,,,not_performed,None
+SRR17805974,7350,7211,,,not_performed,None
+SRR17837492,4141330,1070645,,,not_performed,None
+SRR17837493,5062886,1346588,,,not_performed,None
+SRR17837494,6498664,1118558,,,not_performed,None
+SRR17837495,6990104,1728881,,,not_performed,None
+SRR17839318,326552,3249,,,not_performed,None
+SRR17839319,560776,9073,,,not_performed,None
+SRR17839320,777246,3701,,,not_performed,None
+SRR17839321,645272,3713,,,not_performed,None
+SRR17839739,1730548,1536208,,,not_performed,None
+SRR17839740,1189020,1034764,,,not_performed,None
+SRR17839741,1806516,1635644,,,not_performed,None
+SRR17839742,2422846,2221346,,,not_performed,None
+SRR17839744,1825078,1638464,,,not_performed,None
+SRR17839753,1115114,1016577,,,not_performed,None
+SRR17839754,2971604,2068678,,,not_performed,None
+SRR17839755,1380870,1300384,,,not_performed,None
+SRR17839756,1706986,1578147,,,not_performed,None
+SRR17839757,1512860,1406756,,,not_performed,None
+SRR17839758,1559346,1415363,,,not_performed,None
+SRR17839761,2327034,2140120,,,not_performed,None
+SRR17843586,2303632,2011965,,,not_performed,None
+SRR17843587,892600,735610,,,not_performed,None
+SRR17843588,1513160,1408981,,,not_performed,None
+SRR17843589,1459860,815090,,,not_performed,None
+SRR17843590,1608010,1474793,,,not_performed,None
+SRR17843591,1220476,1035177,,,not_performed,None
+SRR17843592,1944382,1728970,,,not_performed,None
+SRR17843605,1485552,1326482,,,not_performed,None
+SRR17843606,1594390,1451109,,,not_performed,None
+SRR17843607,1993114,1815947,,,not_performed,None
+SRR17843608,2316622,2072942,,,not_performed,None
+SRR17843609,1443226,1346535,,,not_performed,None
+SRR17843610,1965860,1805266,,,not_performed,None
+SRR17867385,215968,1281,,,not_performed,None
+SRR17867386,276998,3820,,,not_performed,None
+SRR17867387,1478690,1723,,,not_performed,None
+SRR17867388,1359978,3548,,,not_performed,None
+SRR17867389,842076,2201,,,not_performed,None
+SRR17867390,609092,9643,,,not_performed,None
+SRR17867391,631938,3539,,,not_performed,None
+SRR17867392,699028,1441,,,not_performed,None
+SRR17867393,595182,1802,,,not_performed,None
+SRR17867394,347992,804,,,not_performed,None
+SRR17867395,612756,8204,,,not_performed,None
+SRR17867396,507048,2785,,,not_performed,None
+SRR17867397,1483788,1193,,,not_performed,None
+SRR17867398,1016918,2733,,,not_performed,None
+SRR17867399,831150,1744,,,not_performed,None
+SRR17867400,929758,5090,,,not_performed,None
+SRR17867401,748722,1578,,,not_performed,None
+SRR17867402,508522,1841,,,not_performed,None
+SRR17867403,621018,1358,,,not_performed,None
+SRR17867404,917366,5889,,,not_performed,None
+SRR17867405,1531858,359991,,,not_performed,None
+SRR17867406,834988,237234,,,not_performed,None
+SRR17867407,755942,194121,,,not_performed,None
+SRR17867408,773580,54240,,,not_performed,None
+SRR17867409,422488,142118,,,not_performed,None
+SRR17867410,359586,45075,,,not_performed,None
+SRR17867411,453692,69169,,,not_performed,None
+SRR17867412,568172,40333,,,not_performed,None
+SRR17867413,695638,5685,,,not_performed,None
+SRR17867414,567792,632,,,not_performed,None
+SRR17867415,282542,2384,,,not_performed,None
+SRR17867416,266004,7223,,,not_performed,None
+SRR17867417,619460,7519,,,not_performed,None
+SRR17867418,423166,3783,,,not_performed,None
+SRR17867419,365276,2686,,,not_performed,None
+SRR17867420,214030,35,,,not_performed,None
+SRR17867421,233156,117,,,not_performed,None
+SRR17867422,274848,7249,,,not_performed,None
+SRR17867423,230570,3126,,,not_performed,None
+SRR17867424,688498,2104,,,not_performed,None
+SRR17867425,628466,4083,,,not_performed,None
+SRR17867426,706162,1365,,,not_performed,None
+SRR17867427,542426,2221,,,not_performed,None
+SRR17867428,917666,14097,,,not_performed,None
+SRR17867429,313912,1042,,,not_performed,None
+SRR17867430,337748,27109,,,not_performed,None
+SRR17867431,2459778,4919,,,not_performed,None
+SRR17867432,96536,696,,,not_performed,None
+SRR17867433,572172,6936,,,not_performed,None
+SRR17867434,637544,4464,,,not_performed,None
+SRR17867435,1544410,74336,,,not_performed,None
+SRR17867436,220554,4319,,,not_performed,None
+SRR17867437,819128,8940,,,not_performed,None
+SRR17867438,923014,61647,,,not_performed,None
+SRR17867439,569284,5851,,,not_performed,None
+SRR17867440,810166,9730,,,not_performed,None
+SRR17867441,780952,26683,,,not_performed,None
+SRR17867442,878102,191434,,,not_performed,None
+SRR17867443,779522,16862,,,not_performed,None
+SRR17867444,780914,2470,,,not_performed,None
+SRR17867445,650260,1608,,,not_performed,None
+SRR17867446,775432,74808,,,not_performed,None
+SRR17867447,755032,209345,,,not_performed,None
+SRR17867448,602512,562,,,not_performed,None
+SRR17867449,1532538,4668,,,not_performed,None
+SRR17867450,593090,22384,,,not_performed,None
+SRR17867451,801292,10424,,,not_performed,None
+SRR17867452,761902,5795,,,not_performed,None
+SRR17867453,889426,24700,,,not_performed,None
+SRR17867454,689608,141945,,,not_performed,None
+SRR17867455,747028,19558,,,not_performed,None
+SRR17867456,742560,174187,,,not_performed,None
+SRR17867457,761554,14403,,,not_performed,None
+SRR17867458,325922,2107,,,not_performed,None
+SRR17867459,690920,10216,,,not_performed,None
+SRR17867460,271690,20935,,,not_performed,None
+SRR17867461,622046,686,,,not_performed,None
+SRR17867462,627246,1086,,,not_performed,None
+SRR17867463,294210,1570,,,not_performed,None
+SRR17867464,319598,2285,,,not_performed,None
+SRR17867465,729396,754,,,not_performed,None
+SRR17867466,408470,2486,,,not_performed,None
+SRR17867467,1092452,127456,,,not_performed,None
+SRR17867468,1082130,20883,,,not_performed,None
+SRR17867469,878678,4033,,,not_performed,None
+SRR17867470,575614,44738,,,not_performed,None
+SRR17867471,561248,47898,,,not_performed,None
+SRR17867472,587782,3133,,,not_performed,None
+SRR17867473,559792,74369,,,not_performed,None
+SRR17867474,723996,12191,,,not_performed,None
+SRR17867475,585742,7286,,,not_performed,None
+SRR17867476,521514,4123,,,not_performed,None
+SRR17867477,509458,20038,,,not_performed,None
+SRR17867478,557338,6608,,,not_performed,None
+SRR17867479,505952,38628,,,not_performed,None
+SRR17867480,623294,11465,,,not_performed,None
+SRR17867481,1303632,19022,,,not_performed,None
+SRR17867482,855108,91927,,,not_performed,None
+SRR17867483,606964,108959,,,not_performed,None
+SRR17867484,505574,1852,,,not_performed,None
+SRR17867485,529078,6964,,,not_performed,None
+SRR17867486,505006,1091,,,not_performed,None
+SRR17869086,106107,90894,,,not_performed,None
+SRR17869087,121393,92014,,,not_performed,None
+SRR17869088,260289,226185,,,not_performed,None
+SRR17869089,331855,288743,,,not_performed,None
+SRR17869096,354159,325920,,,not_performed,None
+SRR17869097,214826,138918,,,not_performed,None
+SRR17869098,153648,113943,,,not_performed,None
+SRR17869101,602832,549640,,,not_performed,None
+SRR17951134,3198212,2569792,,,not_performed,None
+SRR17951285,3284362,3142365,,,not_performed,None
+SRR17951286,4091750,3656304,,,not_performed,None
+SRR17951287,2349148,2155752,,,not_performed,None
+SRR17951288,2238064,2098828,,,not_performed,None
+SRR17951289,2756418,2377030,,,not_performed,None
+SRR17951290,1797856,1485953,,,not_performed,None
+SRR17951291,4401842,3666188,,,not_performed,None
+SRR17951292,2031592,1922598,,,not_performed,None
+SRR17951293,3861650,3080576,,,not_performed,None
+SRR17971003,73792,60907,,,not_performed,None
+SRR17971128,57836,48281,,,not_performed,None
+SRR17971129,88355,70339,,,not_performed,None
+SRR17971130,136119,123936,,,not_performed,None
+SRR17971131,78350,64514,,,not_performed,None
+SRR17975893,899368,16910,,,not_performed,None
+SRR17975894,776842,27236,,,not_performed,None
+SRR17975895,450712,283998,,,not_performed,None
+SRR17975896,555268,234179,,,not_performed,None
+SRR17975897,942910,542534,,,not_performed,None
+SRR17975898,840976,515521,,,not_performed,None
+SRR17975899,836224,133647,,,not_performed,None
+SRR17975900,829784,214774,,,not_performed,None
+SRR17975901,910594,297717,,,not_performed,None
+SRR17975902,909528,136474,,,not_performed,None
+SRR17975903,552926,21649,,,not_performed,None
+SRR17975904,879270,353796,,,not_performed,None
+SRR17975905,932286,66678,,,not_performed,None
+SRR17975906,1036934,14016,,,not_performed,None
+SRR17975907,620346,113244,,,not_performed,None
+SRR17975908,672406,430491,,,not_performed,None
+SRR17975909,853852,381852,,,not_performed,None
+SRR17975910,951424,255118,,,not_performed,None
+SRR17975911,965290,77721,,,not_performed,None
+SRR17975912,556156,412786,,,not_performed,None
+SRR17975913,770370,254495,,,not_performed,None
+SRR17975914,420892,191923,,,not_performed,None
+SRR17975915,898896,21265,,,not_performed,None
+SRR17975916,993964,157092,,,not_performed,None
+SRR17975917,702442,506190,,,not_performed,None
+SRR17975918,989652,735627,,,not_performed,None
+SRR17975919,860240,355321,,,not_performed,None
+SRR17975920,890272,709625,,,not_performed,None
+SRR17975921,707390,6886,,,not_performed,None
+SRR17975922,754954,69627,,,not_performed,None
+SRR17975923,797090,307626,,,not_performed,None
+SRR17975924,1003440,71170,,,not_performed,None
+SRR17975925,1197162,916472,,,not_performed,None
+SRR17975926,1002246,780545,,,not_performed,None
+SRR17975927,932328,707535,,,not_performed,None
+SRR17975928,845400,133024,,,not_performed,None
+SRR17975929,775524,73921,,,not_performed,None
+SRR17975930,785882,351063,,,not_performed,None
+SRR17975931,718294,280160,,,not_performed,None
+SRR17978072,3254552,2521850,,,not_performed,None
+SRR18017651,2252318,2012425,,,not_performed,None
+SRR18017654,2864700,2634367,,,not_performed,None
+SRR18017658,1579436,1446356,,,not_performed,None
+SRR18017669,2549968,2198704,,,not_performed,None
+SRR18017674,2227320,1937243,,,not_performed,None
+SRR18017683,2730664,2487571,,,not_performed,None
+SRR18017686,2508368,2346048,,,not_performed,None
+SRR18017687,2373046,2199653,,,not_performed,None
+SRR18017700,1971226,1814671,,,not_performed,None
+SRR18017717,2226968,2079639,,,not_performed,None
+SRR18017724,1770206,1604647,,,not_performed,None
+SRR18017727,2133400,1898948,,,not_performed,None
+SRR18017730,3010180,2748082,,,not_performed,None
+SRR18017789,2243096,2016266,,,not_performed,None
+SRR18017791,2497292,2255369,,,not_performed,None
+SRR18017794,2366434,2202792,,,not_performed,None
+SRR18018920,2372148,2219660,,,not_performed,None
+SRR18036402,845864,512684,,,not_performed,None
+SRR18036403,649014,520052,,,not_performed,None
+SRR18036404,427504,388441,,,not_performed,None
+SRR18036405,800734,757670,,,not_performed,None
+SRR18036406,489176,410079,,,not_performed,None
+SRR18036407,761080,651866,,,not_performed,None
+SRR18036408,454652,436745,,,not_performed,None
+SRR18036409,488234,464607,,,not_performed,None
+SRR18036410,768942,583055,,,not_performed,None
+SRR18036411,602336,448187,,,not_performed,None
+SRR18036412,586556,535148,,,not_performed,None
+SRR18036413,822474,772048,,,not_performed,None
+SRR18036594,154545,128997,,,not_performed,None
+SRR18036595,140514,4033,,,not_performed,None
+SRR18036697,82363,1873,,,not_performed,None
+SRR18036698,200290,183000,,,not_performed,None
+SRR18036699,116396,2933,,,not_performed,None
+SRR18036700,136632,103572,,,not_performed,None
+SRR18036701,157693,2323,,,not_performed,None
+SRR18036702,148871,96059,,,not_performed,None
+SRR18050592,4388406,4270687,,,not_performed,None
+SRR18050593,41205,33080,,,not_performed,None
+SRR18050594,5451836,5295198,,,not_performed,None
+SRR18050641,3296432,3220561,,,not_performed,None
+SRR18050642,4671204,4466271,,,not_performed,None
+SRR18050643,3907254,3819530,,,not_performed,None
+SRR18050644,3930850,3854419,,,not_performed,None
+SRR18053867,2456288,2146691,,,not_performed,None
+SRR18072967,577540,408895,,,not_performed,None
+SRR18072968,775466,399194,,,not_performed,None
+SRR18072969,579728,228030,,,not_performed,None
+SRR18072970,664562,123901,,,not_performed,None
+SRR18072971,879906,246067,,,not_performed,None
+SRR18072972,1015980,99783,,,not_performed,None
+SRR18072973,884564,273315,,,not_performed,None
+SRR18072974,905708,579527,,,not_performed,None
+SRR18072975,621514,48949,,,not_performed,None
+SRR18072976,998142,117019,,,not_performed,None
+SRR18072977,722334,49418,,,not_performed,None
+SRR18072978,958430,601974,,,not_performed,None
+SRR18072979,682380,273435,,,not_performed,None
+SRR18072980,617806,194084,,,not_performed,None
+SRR18143732,1052154,845529,,,not_performed,None
+SRR18143733,1257322,1191926,,,not_performed,None
+SRR18143734,1274820,737264,,,not_performed,None
+SRR18143735,3577328,2978712,,,not_performed,None
+SRR18143736,450092,296141,,,not_performed,None
+SRR18143737,2215512,1959326,,,not_performed,None
+SRR18143738,2836444,2475005,,,not_performed,None
+SRR18143739,1196160,1074415,,,not_performed,None
+SRR18143740,479746,355652,,,not_performed,None
+SRR18143741,681982,452179,,,not_performed,None
+SRR18143742,492208,383620,,,not_performed,None
+SRR18143743,520700,288477,,,not_performed,None
+SRR18143744,1310332,1019096,,,not_performed,None
+SRR18143745,1210926,1063894,,,not_performed,None
+SRR18143746,1452878,1318510,,,not_performed,None
+SRR18207356,343160,16272,,,not_performed,None
+SRR18207357,304506,21797,,,not_performed,None
+SRR18207358,392684,41373,,,not_performed,None
+SRR18207359,472506,217859,,,not_performed,None
+SRR18207360,5412,9,,,not_performed,None
+SRR18207361,478732,88113,,,not_performed,None
+SRR18207362,914328,150562,,,not_performed,None
+SRR18207363,265674,66380,,,not_performed,None
+SRR18207364,394476,32677,,,not_performed,None
+SRR18207365,452656,18236,,,not_performed,None
+SRR18207366,512886,36295,,,not_performed,None
+SRR18207367,684024,14237,,,not_performed,None
+SRR18207368,416930,100668,,,not_performed,None
+SRR18207369,347526,11398,,,not_performed,None
+SRR18207370,542770,50008,,,not_performed,None
+SRR18207371,421732,67293,,,not_performed,None
+SRR18207372,483524,58775,,,not_performed,None
+SRR18207373,559900,38199,,,not_performed,None
+SRR18207374,378466,14358,,,not_performed,None
+SRR18207375,471872,31668,,,not_performed,None
+SRR18207376,385676,135170,,,not_performed,None
+SRR18207377,503632,64795,,,not_performed,None
+SRR18207378,480050,30523,,,not_performed,None
+SRR18207379,502866,116116,,,not_performed,None
+SRR18207380,517634,113866,,,not_performed,None
+SRR18207381,536090,62778,,,not_performed,None
+SRR18207382,319096,3253,,,not_performed,None
+SRR18207383,454222,70742,,,not_performed,None
+SRR18207384,355602,51692,,,not_performed,None
+SRR18207385,404796,56923,,,not_performed,None
+SRR18207386,482120,33542,,,not_performed,None
+SRR18207387,327794,29873,,,not_performed,None
+SRR18207388,850968,35888,,,not_performed,None
+SRR18207389,326586,8172,,,not_performed,None
+SRR18207390,528280,26698,,,not_performed,None
+SRR18207391,359932,29644,,,not_performed,None
+SRR18208281,8156400,7470249,,,not_performed,None
+SRR18208282,2917098,2439481,,,not_performed,None
+SRR18208283,8129514,7353268,,,not_performed,None
+SRR18208284,2602436,2329681,,,not_performed,None
+SRR18208285,7470900,6768783,,,not_performed,None
+SRR18208286,2048310,1757020,,,not_performed,None
+SRR18208287,6578790,5954112,,,not_performed,None
+SRR18208288,1462696,1317283,,,not_performed,None
+SRR18265021,1005352,937021,106nt,509nt,not_performed,None
+SRR18265022,1387820,1279483,66nt,130nt,not_performed,None
+SRR18265056,1122260,1019076,,,not_performed,None
+SRR18265094,1042412,969080,148nt,556nt,not_performed,None
+SRR18265095,884248,804233,66nt,85nt,not_performed,None
+SRR18265175,1353840,1237460,64nt,144nt,not_performed,None
+SRR18265176,1214766,1171465,92nt,672nt,not_performed,None
+SRR18265220,1256414,1151459,67nt,145nt,not_performed,None
+SRR18265345,1421848,1315411,505nt,1363nt,not_performed,None
+SRR18265346,1269934,1177840,145nt,410nt,not_performed,None
+SRR18265347,1113146,1011112,314nt,1007nt,not_performed,None
+SRR18265348,725072,662114,95nt,257nt,not_performed,None
+SRR18265349,1261460,1200797,86nt,884nt,not_performed,None
+SRR18265350,1425494,1310676,219nt,804nt,not_performed,None
+SRR18265351,1397510,1296890,909nt,2664nt,not_performed,None
+SRR18265352,1417856,1319120,89nt,499nt,not_performed,None
+SRR18265354,1419478,1318280,785nt,2008nt,not_performed,None
+SRR18265355,662262,562403,130nt,581nt,not_performed,None
+SRR18265356,828674,738719,202nt,1007nt,not_performed,None
+SRR18265358,1697862,1526004,,,not_performed,None
+SRR18266276,1925164,1586452,,,not_performed,None
+SRR18266277,2682848,1769896,,,not_performed,None
+SRR18266278,2242960,1698610,,,not_performed,None
+SRR18266279,3035590,1659837,,,not_performed,None
+SRR18266280,2202226,1386203,,,not_performed,None
+SRR18266281,1848334,898581,,,not_performed,None
+SRR18266282,1818022,1255343,,,not_performed,None
+SRR18266283,3316274,2627852,,,not_performed,None
+SRR18266284,2662832,2060301,,,not_performed,None
+SRR18270805,2352314,1137899,,,not_performed,None
+SRR18270806,2269214,1271129,,,not_performed,None
+SRR18270807,3152324,910438,,,not_performed,None
+SRR18270808,2827748,1712373,,,not_performed,None
+SRR18270809,2217110,933922,,,not_performed,None
+SRR18270810,2410444,545144,,,not_performed,None
+SRR18270811,2954858,869384,,,not_performed,None
+SRR18270812,2261528,673202,,,not_performed,None
+SRR18270813,2682660,623865,,,not_performed,None
+SRR18270814,2057800,767308,,,not_performed,None
+SRR18270815,2578268,1862971,,,not_performed,None
+SRR18270816,3117758,813180,,,not_performed,None
+SRR18270817,2330040,886027,,,not_performed,None
+SRR18270818,2614384,880960,,,not_performed,None
+SRR18270819,2250448,925927,,,not_performed,None
+SRR18270820,2014900,798958,18316nt,18638nt,not_performed,None
+SRR18270821,2789902,810461,19132nt,20280nt,not_performed,None
+SRR18270822,1970258,289710,25602nt,25724nt,not_performed,None
+SRR18270823,2895706,394805,19727nt,20096nt,not_performed,None
+SRR18270824,3370056,2375578,15134nt,16004nt,not_performed,None
+SRR18270825,2485938,912838,22322nt,22560nt,not_performed,None
+SRR18270826,2056586,693572,22968nt,23150nt,not_performed,None
+SRR18270827,2744164,335684,20981nt,21787nt,not_performed,None
+SRR18270828,1878162,505039,24328nt,25058nt,not_performed,None
+SRR18270829,2233480,781761,19765nt,20559nt,not_performed,None
+SRR18270830,2024980,200033,23148nt,23452nt,not_performed,None
+SRR18270831,1960234,522941,23386nt,23691nt,not_performed,None
+SRR18270832,2434822,730249,22336nt,22746nt,not_performed,None
+SRR18270833,2667998,765370,12660nt,13069nt,not_performed,None
+SRR18270834,2582986,786371,,,not_performed,None
+SRR18270835,3109044,658994,22487nt,22722nt,not_performed,None
+SRR18270836,2687926,899605,24149nt,24298nt,not_performed,None
+SRR18270837,1801492,494590,21128nt,21601nt,not_performed,None
+SRR18270838,2013602,644874,24846nt,25559nt,not_performed,None
+SRR18280270,2954944,2803025,62nt,67nt,not_performed,None
+SRR18280271,3322250,3136223,62nt,66nt,not_performed,None
+SRR18280272,2992816,2851694,62nt,67nt,not_performed,None
+SRR18280411,2826264,2569297,58nt,111nt,not_performed,None
+SRR18280412,3173738,2884917,62nt,85nt,not_performed,None
+SRR18280413,2625450,2399871,85nt,106nt,not_performed,None
+SRR18280414,2891184,2643261,127nt,130nt,not_performed,None
+SRR18280415,2883372,2701268,79nt,149nt,not_performed,None
+SRR18300800,2110310,1729263,506nt,604nt,not_performed,None
+SRR18300801,2508320,2052580,489nt,543nt,not_performed,None
+SRR18300802,2827516,1179275,11808nt,12822nt,not_performed,None
+SRR18300803,809322,362050,8652nt,9308nt,not_performed,None
+SRR18300804,1237770,429379,13746nt,14450nt,not_performed,None
+SRR18300805,2128974,1718449,2435nt,2668nt,not_performed,None
+SRR18300806,948076,798203,1278nt,1551nt,not_performed,None
+SRR18300807,2674830,2121054,345nt,712nt,not_performed,None
+SRR18300808,1332520,951599,902nt,1146nt,not_performed,None
+SRR18300809,1571054,1280877,3089nt,3352nt,not_performed,None
+SRR18300810,1758128,1172120,575nt,850nt,not_performed,None
+SRR18300811,1694496,1432355,142nt,245nt,not_performed,None
+SRR18321871,2113402,1186839,1134nt,1344nt,not_performed,None
+SRR18321872,2070104,1700374,3998nt,4427nt,not_performed,None
+SRR18321873,6629292,965532,5036nt,6009nt,not_performed,None
+SRR18321874,2096888,1228281,3397nt,3635nt,not_performed,None
+SRR18321875,3591702,978280,9509nt,9751nt,not_performed,None
+SRR18321876,5116480,1694231,4621nt,5175nt,not_performed,None
+SRR18321877,2412314,2117967,1160nt,1303nt,not_performed,None
+SRR18321880,6303136,1194939,5718nt,6236nt,not_performed,None
+SRR18337866,1397660,1309674,1389nt,3904nt,not_performed,None
+SRR18337868,1451556,1380300,2309nt,4743nt,not_performed,None
+SRR18337869,1488516,1388513,1168nt,3707nt,not_performed,None
+SRR18337871,1406780,1323406,1855nt,4957nt,not_performed,None
+SRR18337873,973698,906259,2538nt,5669nt,not_performed,None
+SRR18337874,1395212,1297026,1519nt,2674nt,not_performed,None
+SRR18337886,1011486,961119,1449nt,3718nt,not_performed,None
+SRR18337890,1455224,1304249,1065nt,2863nt,not_performed,None
+SRR18337892,1279534,1182133,1174nt,3312nt,not_performed,None
+SRR18429419,30619,22772,6358nt,13589nt,not_performed,None
+SRR18429420,25033,18861,1181nt,6450nt,not_performed,None
+SRR18429421,26387,20678,4781nt,12962nt,not_performed,None
+SRR18429422,36376,27591,349nt,1441nt,not_performed,None
+SRR18429423,14369,11755,10029nt,17609nt,not_performed,None
+SRR18429448,18428,6745,5864nt,13053nt,not_performed,None
+SRR18429449,20466,2685,11345nt,18105nt,not_performed,None
+SRR18429450,32230,5029,9615nt,17618nt,not_performed,None
+SRR18429472,32273,5293,7742nt,14446nt,not_performed,None
+SRR18429473,15294,1037,12369nt,21021nt,not_performed,None
+SRR18429474,61973,9074,9086nt,14840nt,not_performed,None
+SRR18429475,16950,3304,10435nt,19831nt,not_performed,None
+SRR18429476,12373,2931,9704nt,17599nt,not_performed,None
+SRR18429846,28216,18546,6310nt,14310nt,not_performed,None
+SRR18430166,38106,29160,213nt,1525nt,not_performed,None
+SRR18452471,2471412,1816195,664nt,904nt,not_performed,None
+SRR18452472,1935284,1520621,35nt,59nt,not_performed,None
+SRR18452473,1586562,226637,20303nt,21690nt,not_performed,None
+SRR18452474,3209606,1537448,22655nt,24240nt,not_performed,None
+SRR18479769,15526,4439,10236nt,18832nt,not_performed,None
+SRR18490815,1683628,1213051,2532nt,2972nt,not_performed,None
+SRR18490816,1060204,119200,21944nt,23122nt,not_performed,None
+SRR18490817,556518,328485,3120nt,3360nt,not_performed,None
+SRR18490818,1067104,712373,2703nt,3184nt,not_performed,None
+SRR18490819,943906,505185,14180nt,14982nt,not_performed,None
+SRR18490820,1247304,907323,940nt,1201nt,not_performed,None
+SRR18490821,1347030,422862,7646nt,8601nt,not_performed,None
+SRR18490822,189280,33370,25778nt,26060nt,not_performed,None
+SRR18490823,1259036,512534,15983nt,17017nt,not_performed,None
+SRR18490824,590318,310482,22070nt,22853nt,not_performed,None
+SRR18490825,603120,396939,12587nt,12992nt,not_performed,None
+SRR18490826,783474,101037,16304nt,16791nt,not_performed,None
+SRR18490827,704724,139483,16476nt,17473nt,not_performed,None
+SRR18490828,1020734,498868,4336nt,5352nt,not_performed,None
+SRR18490829,974208,678475,1740nt,2253nt,not_performed,None
+SRR18490830,379164,152462,6809nt,7704nt,not_performed,None
+SRR18490831,450354,280524,7161nt,7953nt,not_performed,None
+SRR18490832,725784,438913,2780nt,2967nt,not_performed,None
+SRR18490833,1045434,442633,6254nt,6760nt,not_performed,None
+SRR18490834,1961354,1127661,8061nt,8826nt,not_performed,None
+SRR18490835,1747318,1168473,4465nt,5773nt,not_performed,None
+SRR18530519,2706724,1923089,24511nt,24833nt,not_performed,None
+SRR18530520,3993902,330279,21556nt,21802nt,not_performed,None
+SRR18530521,2847806,2242867,20108nt,20894nt,not_performed,None
+SRR18530522,3301106,1271800,19188nt,20209nt,not_performed,None
+SRR18530523,2324586,1335843,18527nt,19106nt,not_performed,None
+SRR18530524,2693654,1128565,21303nt,21516nt,not_performed,None
+SRR18530525,3708870,631302,20334nt,20946nt,not_performed,None
+SRR18530526,2862308,1405232,22657nt,23411nt,not_performed,None
+SRR18530527,2436662,574842,22314nt,22654nt,not_performed,None
+SRR18530528,2812162,936828,18416nt,19085nt,not_performed,None
+SRR18530529,3101156,1422403,21714nt,21887nt,not_performed,None
+SRR18530530,3029658,1073920,19224nt,20329nt,not_performed,None
+SRR18530531,2877370,287628,20305nt,21014nt,not_performed,None
+SRR18530532,3442274,990954,18630nt,20614nt,not_performed,None
+SRR18530533,2466700,845937,19292nt,20014nt,not_performed,None
+SRR18530534,2090386,649267,20519nt,21097nt,not_performed,None
+SRR18530535,2260790,626893,20934nt,21350nt,not_performed,None
+SRR18530536,3427556,1141787,18350nt,19322nt,not_performed,None
+SRR18530537,2001194,1001138,18759nt,19144nt,not_performed,None
+SRR18530538,3156660,1587617,18772nt,19242nt,not_performed,None
+SRR18530539,3019470,771790,23705nt,23881nt,not_performed,None
+SRR18530540,3395370,1093574,23922nt,24772nt,not_performed,None
+SRR18530541,2134798,1377195,20781nt,21040nt,not_performed,None
+SRR18530542,3262500,356511,21563nt,21906nt,not_performed,None
+SRR18530543,2168804,660474,18135nt,19105nt,not_performed,None
+SRR18530544,2858326,2224420,8728nt,9342nt,not_performed,None
+SRR18545503,81662,79906,4nt,705nt,not_performed,None
+SRR18545504,119114,116842,12nt,90nt,not_performed,None
+SRR18545505,54758,51153,177nt,1671nt,not_performed,None
+SRR18545506,55052,52539,157nt,1701nt,not_performed,None
+SRR18545507,27627,25076,1143nt,4224nt,not_performed,None
+SRR18545509,59765,56874,286nt,2267nt,not_performed,None
+SRR18545510,88538,84464,200nt,905nt,not_performed,None
+SRR18547526,2381044,1947824,2911nt,3523nt,not_performed,None
+SRR18547527,6215340,1395236,1258nt,1866nt,not_performed,None
+SRR18547528,2924180,2221087,474nt,566nt,not_performed,None
+SRR18547529,5460690,1137157,2113nt,2385nt,not_performed,None
+SRR18547530,3875354,3075047,350nt,367nt,not_performed,None
+SRR18547531,2800186,2285459,816nt,1142nt,not_performed,None
+SRR18573111,1651114,729825,3375nt,4081nt,not_performed,None
+SRR18573112,2070284,1384584,2012nt,2940nt,not_performed,None
+SRR18573113,1163526,544908,11182nt,12381nt,not_performed,None
+SRR18573114,1390468,959510,854nt,1195nt,not_performed,None
+SRR18573115,1755168,1149980,5449nt,6252nt,not_performed,None
+SRR18573116,709290,109360,21308nt,22342nt,not_performed,None
+SRR18573117,631174,190519,13914nt,14706nt,not_performed,None
+SRR18573118,321946,53460,20172nt,20701nt,not_performed,None
+SRR18573119,1195652,857732,3372nt,3936nt,not_performed,None
+SRR18573120,711388,533447,378nt,633nt,not_performed,None
+SRR18573121,1344532,1118261,329nt,360nt,not_performed,None
+SRR18573122,1218560,832059,3433nt,3935nt,not_performed,None
+SRR18573123,1177054,917592,140nt,195nt,not_performed,None
+SRR18573124,1174200,869447,680nt,1216nt,not_performed,None
+SRR18573125,512028,60734,24910nt,25457nt,not_performed,None
+SRR18573126,577286,107107,19512nt,20191nt,not_performed,None
+SRR18573989,3867160,3454982,2937nt,3665nt,not_performed,None
+SRR18573990,3818068,2980472,15944nt,16823nt,not_performed,None
+SRR18573991,3520706,1823013,12865nt,15822nt,not_performed,None
+SRR18643444,4340462,3561579,4433nt,4740nt,not_performed,None
+SRR18643446,4447980,3688291,10052nt,10529nt,not_performed,None
+SRR18643447,7154226,6226967,5706nt,5989nt,not_performed,None
+SRR18643448,4964768,3732876,4949nt,5292nt,not_performed,None
+SRR18674539,447645,338041,480nt,2270nt,not_performed,None
+SRR18674541,1025364,950504,6nt,78nt,not_performed,None
+SRR18674542,756045,620772,5nt,82nt,not_performed,None
+SRR18674546,582470,541895,8nt,276nt,not_performed,None
+SRR18674547,1102196,1015755,5nt,76nt,not_performed,None
+SRR18674679,518761,450239,1nt,331nt,not_performed,None
+SRR18674680,567625,526670,1nt,10nt,not_performed,None
+SRR18674683,505257,413685,559nt,3862nt,not_performed,None
+SRR18674685,491919,398526,3nt,83nt,not_performed,None
+SRR18674686,622715,586623,2nt,11nt,not_performed,None
+SRR18674688,1198974,1134711,2nt,83nt,not_performed,None
+SRR18674689,1174672,1091708,4nt,78nt,not_performed,None
+SRR18674691,366620,250609,667nt,4266nt,not_performed,None
+SRR18674722,696875,653967,3nt,84nt,not_performed,None
+SRR18677369,1479096,48354,546nt,2359nt,not_performed,None
+SRR18677370,1469198,290828,182nt,412nt,not_performed,None
+SRR18677371,2705012,808910,86nt,87nt,not_performed,None
+SRR18677372,2727194,331678,103nt,298nt,not_performed,None
+SRR18677373,2930116,839064,67nt,67nt,not_performed,None
+SRR18677374,1910906,417604,86nt,275nt,not_performed,None
+SRR18677375,1691614,133123,481nt,2671nt,not_performed,None
