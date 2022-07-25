@@ -1561,3 +1561,48 @@ SRR20333153,2022-07-06,Washington State Department of Health,1887744,1778756,886
 SRR20333155,2022-07-08,Washington State Department of Health,2619996,2487630,12395X,67,67,0,0,37.5,37.7,149,149,1288411,1994,428,98.35,0.15,0.03,not_performed,None
 SRR20333157,2022-07-01,Washington State Department of Health,1545704,1425657,7103X,67,67,0,0,37.4,37.6,149,149,742503,739,7224,96.07,0.10,0.93,not_performed,None
 SRR20333159,2022-07-01,Washington State Department of Health,1741684,1614068,8042X,67,67,0,0,37.4,37.7,149,149,838612,196,4284,96.30,0.02,0.49,not_performed,None
+SRR20414446,2022-05-18,FDA Center for Food Safety and Applied Nutrition,926990,881314,4391X,67,110,0,0,37.5,37.6,149,149,447913,420,7,96.64,0.09,0.00,not_performed,None
+SRR20414447,2022-05-18,FDA Center for Food Safety and Applied Nutrition,1199414,1091389,5438X,72,138,0,0,37.6,37.6,149,149,558640,292,18,93.15,0.05,0.00,not_performed,None
+SRR20414448,2022-05-18,FDA Center for Food Safety and Applied Nutrition,1183324,1127623,5618X,67,117,0,0,37.6,37.6,149,149,572299,795,1,96.73,0.13,0.00,not_performed,None
+SRR20414449,2022-05-18,FDA Center for Food Safety and Applied Nutrition,1058326,950764,4737X,67,67,0,0,37.6,37.6,149,149,488554,623,44,92.33,0.12,0.01,not_performed,None
+SRR20414450,2022-05-18,FDA Center for Food Safety and Applied Nutrition,1695454,1604068,7992X,66,67,0,0,37.6,37.6,149,149,812210,863,6,95.81,0.10,0.00,not_performed,None
+SRR20414452,2022-05-11,FDA Center for Food Safety and Applied Nutrition,1292128,854752,4259X,67,158,0,0,37.6,37.6,149,149,458140,3324,23,70.91,0.51,0.00,not_performed,None
+SRR20414457,2022-05-11,FDA Center for Food Safety and Applied Nutrition,1408414,968462,4825X,63,111,0,0,37.5,37.6,149,149,520331,3349,82,73.89,0.48,0.01,not_performed,None
+SRR20414460,2022-05-11,FDA Center for Food Safety and Applied Nutrition,1952328,1479164,7221X,67,67,0,0,37.5,37.6,146,146,737204,3040,1983,75.52,0.31,0.20,not_performed,None
+SRR20414462,2022-05-11,FDA Center for Food Safety and Applied Nutrition,987230,696347,3469X,67,67,0,0,37.5,37.6,149,149,364635,1877,17,73.87,0.38,0.00,not_performed,None
+SRR20414464,2022-05-18,FDA Center for Food Safety and Applied Nutrition,1268980,1220023,6079X,67,110,0,0,37.5,37.6,149,149,619928,453,71,97.70,0.07,0.01,not_performed,None
+SRR20414466,2022-05-11,FDA Center for Food Safety and Applied Nutrition,1489974,1184770,5824X,67,67,0,0,37.6,37.6,147,147,599064,2010,1123,80.41,0.27,0.15,not_performed,None
+SRR20414470,2022-05-25,FDA Center for Food Safety and Applied Nutrition,987476,865163,4310X,67,110,0,0,37.5,37.6,149,149,443218,1146,39,89.77,0.23,0.01,not_performed,None
+SRR20414477,2022-05-11,FDA Center for Food Safety and Applied Nutrition,1002476,562547,2803X,66,168,0,0,37.5,37.6,149,149,298276,1728,200,59.51,0.34,0.04,not_performed,None
+SRR20428495,2022-06-16,New Jersey State Department of Agriculture,6200248,3649783,16111X,479,528,1,1,35.3,35.6,132,132,1945136,6479,83,62.74,0.21,0.00,not_performed,None
+SRR20428496,2022-06-16,New Jersey State Department of Agriculture,5517042,995599,4428X,5148,5789,17,19,35.2,35.5,133,133,535635,9198,20,19.42,0.33,0.00,not_performed,None
+SRR20428497,2022-06-15,New Jersey State Department of Agriculture,7069348,4204050,18136X,554,1556,1,5,35.2,35.6,129,129,2272491,6793,789,64.29,0.19,0.02,not_performed,None
+SRR20428498,2022-06-15,New Jersey State Department of Agriculture,6036082,506177,2302X,11539,11987,38,40,35.2,35.6,136,136,274108,9745,1676,9.08,0.32,0.06,not_performed,None
+SRR20429845,2022-05-31,Virginia Division of Consolidated Laboratory Services,9100264,3649487,18184X,1742,1805,5,6,32.8,33.1,149,149,3250445,72956,9,71.44,1.60,0.00,not_performed,None
+SRR20429846,2022-05-25,Virginia Division of Consolidated Laboratory Services,10359996,5005524,24941X,477,504,1,1,32.7,33.0,149,149,4423271,56700,8,85.39,1.09,0.00,not_performed,None
+SRR20429847,2022-05-24,Virginia Division of Consolidated Laboratory Services,10850434,5529258,27551X,287,330,0,1,32.6,32.9,149,149,5028173,72561,88,92.68,1.34,0.00,not_performed,None
+SRR20429848,2022-05-18,Virginia Division of Consolidated Laboratory Services,12648870,6348620,31633X,179,300,0,1,32.9,33.1,149,149,5560635,76276,16,87.92,1.21,0.00,not_performed,None
+SRR20429849,2022-05-17,Virginia Division of Consolidated Laboratory Services,10924598,5659125,28198X,78,308,0,1,32.7,33.0,149,149,5016710,48585,2,91.84,0.89,0.00,not_performed,None
+SRR20429850,2022-05-11,Virginia Division of Consolidated Laboratory Services,10892726,4720928,23523X,685,705,2,2,32.8,33.1,149,149,4209232,56168,19,77.29,1.03,0.00,not_performed,None
+SRR20429851,2022-05-10,Virginia Division of Consolidated Laboratory Services,11538554,5281163,26314X,80,139,0,0,32.7,33.0,149,149,4676954,54377,0,81.07,0.94,0.00,not_performed,None
+SRR20429852,2022-06-08,Virginia Division of Consolidated Laboratory Services,12681530,5694630,28375X,676,701,2,2,32.9,33.2,149,149,5078719,71287,6,80.10,1.12,0.00,not_performed,None
+SRR20429853,2022-06-07,Virginia Division of Consolidated Laboratory Services,12041662,6158570,30686X,681,819,2,2,32.8,33.0,149,149,5439123,36712,3,90.34,0.61,0.00,not_performed,None
+SRR20429854,2022-06-01,Virginia Division of Consolidated Laboratory Services,11621800,5614326,27974X,5709,6146,19,20,32.8,33.1,149,149,5255002,70845,185,90.43,1.22,0.00,not_performed,None
+SRR20429855,2022-05-31,Virginia Division of Consolidated Laboratory Services,10974724,4487554,22360X,8916,9094,29,30,32.8,33.1,149,149,4333783,98236,6,78.98,1.79,0.00,not_performed,None
+SRR20429856,2022-05-03,Virginia Division of Consolidated Laboratory Services,11437936,5649722,28151X,640,697,2,2,32.8,33.0,149,149,4955307,43511,5,86.65,0.76,0.00,not_performed,None
+SRR20429857,2022-05-25,Virginia Division of Consolidated Laboratory Services,10005054,2534179,12627X,2353,2497,7,8,32.8,33.0,149,149,2310320,61440,0,46.18,1.23,0.00,not_performed,None
+SRR20429858,2022-05-24,Virginia Division of Consolidated Laboratory Services,9643962,3949269,19678X,1769,1901,5,6,32.7,33.0,149,149,3551117,52716,5,73.64,1.09,0.00,not_performed,None
+SRR20429859,2022-05-18,Virginia Division of Consolidated Laboratory Services,7037196,1625082,8097X,497,1039,1,3,32.8,33.0,149,149,1460567,45474,17,41.51,1.29,0.00,not_performed,None
+SRR20429860,2022-05-17,Virginia Division of Consolidated Laboratory Services,11337550,5707470,28439X,910,1144,3,3,32.9,33.2,149,149,5221831,75161,3,92.12,1.33,0.00,not_performed,None
+SRR20429861,2022-05-11,Virginia Division of Consolidated Laboratory Services,9991800,3865616,19261X,674,701,2,2,32.7,33.0,149,149,3407348,50450,3,68.20,1.01,0.00,not_performed,None
+SRR20429862,2022-05-10,Virginia Division of Consolidated Laboratory Services,10832512,3824595,19057X,5702,6252,19,20,32.9,33.1,149,149,3431458,65628,16,63.35,1.21,0.00,not_performed,None
+SRR20429863,2022-05-04,Virginia Division of Consolidated Laboratory Services,11288722,5003954,24933X,2210,3198,7,10,32.8,33.1,149,149,4487815,70008,12,79.51,1.24,0.00,not_performed,None
+SRR20429864,2022-04-27,Virginia Division of Consolidated Laboratory Services,11476528,4429021,22068X,2004,2122,6,7,32.8,33.0,149,149,3997893,71877,11,69.67,1.25,0.00,not_performed,None
+SRR20429865,2022-06-08,Virginia Division of Consolidated Laboratory Services,11129118,5602218,27914X,471,706,1,2,32.8,33.0,149,149,4842849,48884,298,87.03,0.88,0.01,not_performed,None
+SRR20429866,2022-06-01,Virginia Division of Consolidated Laboratory Services,11746474,5435011,27081X,7541,9411,25,31,32.8,33.1,149,149,5355944,141622,243,91.19,2.41,0.00,not_performed,None
+SRR20429867,2022-04-27,Virginia Division of Consolidated Laboratory Services,9805934,4474068,22293X,3614,3817,12,12,32.8,33.0,149,149,4117424,86030,320,83.98,1.75,0.01,not_performed,None
+SRR20429868,2022-04-26,Virginia Division of Consolidated Laboratory Services,12923706,4679280,23315X,22089,22217,73,74,32.8,33.1,149,149,4897750,165855,12,75.79,2.57,0.00,not_performed,None
+SRR20591203,2022-07-12,FDA Center for Food Safety and Applied Nutrition,7033870,6715542,33462X,67,67,0,0,37.6,37.7,149,149,3455233,408,20,98.25,0.01,0.00,not_performed,None
+SRR20591204,2022-07-12,FDA Center for Food Safety and Applied Nutrition,5318040,5071593,25270X,817,999,2,3,37.6,37.7,149,149,2609339,339,211,98.13,0.01,0.01,not_performed,None
+SRR20591264,2022-07-12,FDA Center for Food Safety and Applied Nutrition,7478884,7121446,35484X,66,67,0,0,37.6,37.8,149,149,3660389,344,20,97.89,0.01,0.00,not_performed,None
+SRR20591265,2022-07-12,FDA Center for Food Safety and Applied Nutrition,8126500,7706326,38398X,67,67,0,0,37.6,37.7,149,149,3971643,522,74,97.75,0.01,0.00,not_performed,None
